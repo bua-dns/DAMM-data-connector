@@ -8,6 +8,7 @@ import fs from 'fs';
 import path from 'path';
 import { cwd } from 'process';
 import { config } from './config/project.js';
+import { mapping } from './config/mapping.js';
 
 const root = cwd();
 
@@ -24,8 +25,10 @@ async function fetchModels() {
 
         // Clear and recreate output directories
         fs.rmSync(path.join(root, 'output', 'models'), { recursive: true, force: true });
+        fs.rmSync(path.join(root, 'output', 'mapped-models'), { recursive: true, force: true });
         fs.rmSync(path.join(root, 'output', 'reports'), { recursive: true, force: true });
         fs.mkdirSync(path.join(root, 'output', 'models'), { recursive: true });
+        fs.mkdirSync(path.join(root, 'output', 'mapped-models'), { recursive: true });
         fs.mkdirSync(path.join(root, 'output', 'reports'), { recursive: true });
 
         // Fetch each model item
@@ -40,6 +43,15 @@ async function fetchModels() {
 
             // Save each model item
             fs.writeFileSync(path.join(root, 'output', 'models', `${id}.json`), JSON.stringify(item, null, 2));
+            // Map each model item and save it
+            let mappedItem = {};
+            for (let key in mapping) {
+                if (mapping[key].ignore) continue;
+                if (mapping[key].type !== 'string') continue;
+                if (!item[key].trim()) continue;
+                mappedItem[key] = item[mapping[key].label];
+            }
+            fs.writeFileSync(path.join(root, 'output', 'mapped-models', `${id}-mapped.json`), JSON.stringify(mappedItem, null, 2));
         }
 
         // Save the report

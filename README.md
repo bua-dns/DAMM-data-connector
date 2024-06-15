@@ -22,6 +22,16 @@ Since it is not possible to fetch all items of a collection at once, the script 
 
 Endpoints of the data source and the specific collection that shall be fetched and mapped ist configured in /config/project.js.
 
+## Mapping
+
+The process of mapping fetched data is carried out in two distinct steps:
+
+1. **Mapping String Fields**: This step involves mapping all fields that are of type string.
+2. (not yet implemented) **Mapping Array and Object Fields**: This step handles fields that are arrays or objects, including images and media boxes.
+
+The mapping schema is specified in the `/config/mapping.js` file. This schema defines how each field type should be processed and transformed.
+
+
 ## Usage
 
 To use this toolset, follow these steps:
