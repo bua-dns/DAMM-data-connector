@@ -1,0 +1,417 @@
+{
+  "id": 688,
+  "name": "Hyperbolic paraboloid",
+  "shorttext": "Hyperbolisches Paraboloid",
+  "text": "",
+  "size": "25 x 35 x 35",
+  "weight": "",
+  "price": "",
+  "status": "online",
+  "propertySince": "",
+  "objectNumber": "HU118",
+  "catalogueNumber": "216/9a",
+  "creationDate": "22.06.2017",
+  "links": null,
+  "oldId": 948,
+  "comment": "Material: Kunststoff",
+  "condition": null,
+  "modelcollection": {
+    "id": 7,
+    "shortname": "HU Berlin",
+    "uri": "HU-Berlin",
+    "name": "Mathematische Modelle (HU Berlin)",
+    "institution": "Humboldt-Universität zu Berlin",
+    "department": "Institut für Mathematik",
+    "address": "Rudower Chaussee 25, 12489 Berlin",
+    "link": "",
+    "VIAF": "",
+    "contact_name": "Heike Pahlisch",
+    "contact_mail": "institut-mathematik.sek@hu-berlin.de",
+    "status": "online",
+    "created_at": "2022-02-22T12:21:02.000Z",
+    "updated_at": "2023-01-10T10:05:58.000Z",
+    "logo": {
+      "id": 1506,
+      "name": "hu_siegel-kombi_rgb.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1524,
+      "height": 844,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_hu_siegel-kombi_rgb.jpg",
+          "hash": "thumbnail_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 136,
+          "size": 5.59,
+          "path": null,
+          "url": "/uploads/thumbnail_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "large": {
+          "name": "large_hu_siegel-kombi_rgb.jpg",
+          "hash": "large_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 554,
+          "size": 39.47,
+          "path": null,
+          "url": "/uploads/large_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "medium": {
+          "name": "medium_hu_siegel-kombi_rgb.jpg",
+          "hash": "medium_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 415,
+          "size": 26.9,
+          "path": null,
+          "url": "/uploads/medium_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "small": {
+          "name": "small_hu_siegel-kombi_rgb.jpg",
+          "hash": "small_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 277,
+          "size": 15.37,
+          "path": null,
+          "url": "/uploads/small_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        }
+      },
+      "hash": "hu_siegel_kombi_rgb_7c5fe374fa",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 70.91,
+      "url": "/uploads/hu_siegel_kombi_rgb_7c5fe374fa.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2022-11-07T17:23:20.000Z",
+      "updated_at": "2022-11-07T17:23:20.000Z"
+    }
+  },
+  "created_at": "2022-02-22T12:23:12.000Z",
+  "updated_at": "2023-10-13T09:09:00.000Z",
+  "images": [
+    {
+      "id": 1575,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 706,
+          "name": "688-paraboloid-3.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4032,
+          "height": 3024,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_688-paraboloid-3.jpg",
+              "hash": "thumbnail_688_paraboloid_3_c37dac4b10",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 208,
+              "height": 156,
+              "size": 7.13,
+              "path": null,
+              "url": "/uploads/thumbnail_688_paraboloid_3_c37dac4b10.jpg"
+            },
+            "large": {
+              "name": "large_688-paraboloid-3.jpg",
+              "hash": "large_688_paraboloid_3_c37dac4b10",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 750,
+              "size": 76.26,
+              "path": null,
+              "url": "/uploads/large_688_paraboloid_3_c37dac4b10.jpg"
+            },
+            "medium": {
+              "name": "medium_688-paraboloid-3.jpg",
+              "hash": "medium_688_paraboloid_3_c37dac4b10",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 563,
+              "size": 48.91,
+              "path": null,
+              "url": "/uploads/medium_688_paraboloid_3_c37dac4b10.jpg"
+            },
+            "small": {
+              "name": "small_688-paraboloid-3.jpg",
+              "hash": "small_688_paraboloid_3_c37dac4b10",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 375,
+              "size": 26.15,
+              "path": null,
+              "url": "/uploads/small_688_paraboloid_3_c37dac4b10.jpg"
+            }
+          },
+          "hash": "688_paraboloid_3_c37dac4b10",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1121.17,
+          "url": "/uploads/688_paraboloid_3_c37dac4b10.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:41.000Z",
+          "updated_at": "2022-02-22T12:25:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": 1576,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 707,
+          "name": "688-paraboloid-4.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4032,
+          "height": 3024,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_688-paraboloid-4.jpg",
+              "hash": "thumbnail_688_paraboloid_4_1e4ca87339",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 208,
+              "height": 156,
+              "size": 6,
+              "path": null,
+              "url": "/uploads/thumbnail_688_paraboloid_4_1e4ca87339.jpg"
+            },
+            "large": {
+              "name": "large_688-paraboloid-4.jpg",
+              "hash": "large_688_paraboloid_4_1e4ca87339",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 750,
+              "size": 65.41,
+              "path": null,
+              "url": "/uploads/large_688_paraboloid_4_1e4ca87339.jpg"
+            },
+            "medium": {
+              "name": "medium_688-paraboloid-4.jpg",
+              "hash": "medium_688_paraboloid_4_1e4ca87339",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 563,
+              "size": 40.93,
+              "path": null,
+              "url": "/uploads/medium_688_paraboloid_4_1e4ca87339.jpg"
+            },
+            "small": {
+              "name": "small_688-paraboloid-4.jpg",
+              "hash": "small_688_paraboloid_4_1e4ca87339",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 375,
+              "size": 21.57,
+              "path": null,
+              "url": "/uploads/small_688_paraboloid_4_1e4ca87339.jpg"
+            }
+          },
+          "hash": "688_paraboloid_4_1e4ca87339",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1091.6,
+          "url": "/uploads/688_paraboloid_4_1e4ca87339.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:41.000Z",
+          "updated_at": "2022-02-22T12:25:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": 1577,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 710,
+          "name": "688-paraboloid-2.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4032,
+          "height": 3024,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_688-paraboloid-2.jpg",
+              "hash": "thumbnail_688_paraboloid_2_1af1e3af73",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 208,
+              "height": 156,
+              "size": 7.17,
+              "path": null,
+              "url": "/uploads/thumbnail_688_paraboloid_2_1af1e3af73.jpg"
+            },
+            "large": {
+              "name": "large_688-paraboloid-2.jpg",
+              "hash": "large_688_paraboloid_2_1af1e3af73",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 750,
+              "size": 72.22,
+              "path": null,
+              "url": "/uploads/large_688_paraboloid_2_1af1e3af73.jpg"
+            },
+            "medium": {
+              "name": "medium_688-paraboloid-2.jpg",
+              "hash": "medium_688_paraboloid_2_1af1e3af73",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 563,
+              "size": 46.3,
+              "path": null,
+              "url": "/uploads/medium_688_paraboloid_2_1af1e3af73.jpg"
+            },
+            "small": {
+              "name": "small_688-paraboloid-2.jpg",
+              "hash": "small_688_paraboloid_2_1af1e3af73",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 375,
+              "size": 25.05,
+              "path": null,
+              "url": "/uploads/small_688_paraboloid_2_1af1e3af73.jpg"
+            }
+          },
+          "hash": "688_paraboloid_2_1af1e3af73",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1065.01,
+          "url": "/uploads/688_paraboloid_2_1af1e3af73.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:43.000Z",
+          "updated_at": "2022-02-22T12:25:43.000Z"
+        }
+      ]
+    },
+    {
+      "id": 1578,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [
+        {
+          "id": 244,
+          "caption": "Stempel an der Außenseite",
+          "language": {
+            "id": 2,
+            "name": "german",
+            "caption": "deutsch",
+            "abbreviation": "de",
+            "static_text": 2,
+            "created_at": "2022-02-22T12:20:46.000Z",
+            "updated_at": "2022-02-23T13:18:01.000Z"
+          }
+        }
+      ],
+      "image": [
+        {
+          "id": 714,
+          "name": "688-paraboloid-1.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4032,
+          "height": 3024,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_688-paraboloid-1.jpg",
+              "hash": "thumbnail_688_paraboloid_1_ace9b3d6ce",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 208,
+              "height": 156,
+              "size": 6.95,
+              "path": null,
+              "url": "/uploads/thumbnail_688_paraboloid_1_ace9b3d6ce.jpg"
+            },
+            "large": {
+              "name": "large_688-paraboloid-1.jpg",
+              "hash": "large_688_paraboloid_1_ace9b3d6ce",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 750,
+              "size": 69.77,
+              "path": null,
+              "url": "/uploads/large_688_paraboloid_1_ace9b3d6ce.jpg"
+            },
+            "medium": {
+              "name": "medium_688-paraboloid-1.jpg",
+              "hash": "medium_688_paraboloid_1_ace9b3d6ce",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 563,
+              "size": 44.23,
+              "path": null,
+              "url": "/uploads/medium_688_paraboloid_1_ace9b3d6ce.jpg"
+            },
+            "small": {
+              "name": "small_688-paraboloid-1.jpg",
+              "hash": "small_688_paraboloid_1_ace9b3d6ce",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 375,
+              "size": 24.09,
+              "path": null,
+              "url": "/uploads/small_688_paraboloid_1_ace9b3d6ce.jpg"
+            }
+          },
+          "hash": "688_paraboloid_1_ace9b3d6ce",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1161.25,
+          "url": "/uploads/688_paraboloid_1_ace9b3d6ce.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:44.000Z",
+          "updated_at": "2022-02-22T12:25:44.000Z"
+        }
+      ]
+    }
+  ],
+  "mediabox": null,
+  "categories": [
+    {
+      "id": 71,
+      "name": "Stoll",
+      "classification": 6
+    }
+  ],
+  "lang": "de"
+}

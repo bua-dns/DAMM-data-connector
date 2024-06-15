@@ -1,0 +1,554 @@
+{
+  "id": 678,
+  "name": "Hyperboloid of two sheets",
+  "shorttext": "Hyperboloid of two sheets",
+  "text": "",
+  "size": "30",
+  "weight": "",
+  "price": "",
+  "status": "online",
+  "propertySince": "",
+  "objectNumber": "",
+  "catalogueNumber": "XXIII 3",
+  "creationDate": "07.06.2017",
+  "links": null,
+  "oldId": 935,
+  "comment": "HU Nummer 31",
+  "condition": null,
+  "modelcollection": {
+    "id": 7,
+    "shortname": "HU Berlin",
+    "uri": "HU-Berlin",
+    "name": "Mathematische Modelle (HU Berlin)",
+    "institution": "Humboldt-Universität zu Berlin",
+    "department": "Institut für Mathematik",
+    "address": "Rudower Chaussee 25, 12489 Berlin",
+    "link": "",
+    "VIAF": "",
+    "contact_name": "Heike Pahlisch",
+    "contact_mail": "institut-mathematik.sek@hu-berlin.de",
+    "status": "online",
+    "created_at": "2022-02-22T12:21:02.000Z",
+    "updated_at": "2023-01-10T10:05:58.000Z",
+    "logo": {
+      "id": 1506,
+      "name": "hu_siegel-kombi_rgb.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1524,
+      "height": 844,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_hu_siegel-kombi_rgb.jpg",
+          "hash": "thumbnail_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 136,
+          "size": 5.59,
+          "path": null,
+          "url": "/uploads/thumbnail_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "large": {
+          "name": "large_hu_siegel-kombi_rgb.jpg",
+          "hash": "large_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 554,
+          "size": 39.47,
+          "path": null,
+          "url": "/uploads/large_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "medium": {
+          "name": "medium_hu_siegel-kombi_rgb.jpg",
+          "hash": "medium_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 415,
+          "size": 26.9,
+          "path": null,
+          "url": "/uploads/medium_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "small": {
+          "name": "small_hu_siegel-kombi_rgb.jpg",
+          "hash": "small_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 277,
+          "size": 15.37,
+          "path": null,
+          "url": "/uploads/small_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        }
+      },
+      "hash": "hu_siegel_kombi_rgb_7c5fe374fa",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 70.91,
+      "url": "/uploads/hu_siegel_kombi_rgb_7c5fe374fa.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2022-11-07T17:23:20.000Z",
+      "updated_at": "2022-11-07T17:23:20.000Z"
+    }
+  },
+  "created_at": "2022-02-22T12:23:11.000Z",
+  "updated_at": "2023-03-31T13:46:48.000Z",
+  "images": [
+    {
+      "id": 1547,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 679,
+          "name": "678-image2.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3024,
+          "height": 4032,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_678-image2.jpg",
+              "hash": "thumbnail_678_image2_f3a56f4f2d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 117,
+              "height": 156,
+              "size": 3.07,
+              "path": null,
+              "url": "/uploads/thumbnail_678_image2_f3a56f4f2d.jpg"
+            },
+            "large": {
+              "name": "large_678-image2.jpg",
+              "hash": "large_678_image2_f3a56f4f2d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 1000,
+              "size": 49.21,
+              "path": null,
+              "url": "/uploads/large_678_image2_f3a56f4f2d.jpg"
+            },
+            "medium": {
+              "name": "medium_678-image2.jpg",
+              "hash": "medium_678_image2_f3a56f4f2d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 563,
+              "height": 750,
+              "size": 31.36,
+              "path": null,
+              "url": "/uploads/medium_678_image2_f3a56f4f2d.jpg"
+            },
+            "small": {
+              "name": "small_678-image2.jpg",
+              "hash": "small_678_image2_f3a56f4f2d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 375,
+              "height": 500,
+              "size": 16.25,
+              "path": null,
+              "url": "/uploads/small_678_image2_f3a56f4f2d.jpg"
+            }
+          },
+          "hash": "678_image2_f3a56f4f2d",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1021.01,
+          "url": "/uploads/678_image2_f3a56f4f2d.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:30.000Z",
+          "updated_at": "2022-02-22T12:25:30.000Z"
+        }
+      ]
+    },
+    {
+      "id": 1548,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 680,
+          "name": "678-image1.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 3024,
+          "height": 4032,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_678-image1.jpg",
+              "hash": "thumbnail_678_image1_8ede84430d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 117,
+              "height": 156,
+              "size": 2.84,
+              "path": null,
+              "url": "/uploads/thumbnail_678_image1_8ede84430d.jpg"
+            },
+            "large": {
+              "name": "large_678-image1.jpg",
+              "hash": "large_678_image1_8ede84430d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 1000,
+              "size": 45.92,
+              "path": null,
+              "url": "/uploads/large_678_image1_8ede84430d.jpg"
+            },
+            "medium": {
+              "name": "medium_678-image1.jpg",
+              "hash": "medium_678_image1_8ede84430d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 563,
+              "height": 750,
+              "size": 28.95,
+              "path": null,
+              "url": "/uploads/medium_678_image1_8ede84430d.jpg"
+            },
+            "small": {
+              "name": "small_678-image1.jpg",
+              "hash": "small_678_image1_8ede84430d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 375,
+              "height": 500,
+              "size": 14.68,
+              "path": null,
+              "url": "/uploads/small_678_image1_8ede84430d.jpg"
+            }
+          },
+          "hash": "678_image1_8ede84430d",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1023.16,
+          "url": "/uploads/678_image1_8ede84430d.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:30.000Z",
+          "updated_at": "2022-02-22T12:25:30.000Z"
+        }
+      ]
+    },
+    {
+      "id": 1549,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 681,
+          "name": "678-image4.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4032,
+          "height": 3024,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_678-image4.jpg",
+              "hash": "thumbnail_678_image4_6a99bc1ee8",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 208,
+              "height": 156,
+              "size": 4.4,
+              "path": null,
+              "url": "/uploads/thumbnail_678_image4_6a99bc1ee8.jpg"
+            },
+            "large": {
+              "name": "large_678-image4.jpg",
+              "hash": "large_678_image4_6a99bc1ee8",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 750,
+              "size": 48.33,
+              "path": null,
+              "url": "/uploads/large_678_image4_6a99bc1ee8.jpg"
+            },
+            "medium": {
+              "name": "medium_678-image4.jpg",
+              "hash": "medium_678_image4_6a99bc1ee8",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 563,
+              "size": 30.01,
+              "path": null,
+              "url": "/uploads/medium_678_image4_6a99bc1ee8.jpg"
+            },
+            "small": {
+              "name": "small_678-image4.jpg",
+              "hash": "small_678_image4_6a99bc1ee8",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 375,
+              "size": 15.36,
+              "path": null,
+              "url": "/uploads/small_678_image4_6a99bc1ee8.jpg"
+            }
+          },
+          "hash": "678_image4_6a99bc1ee8",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 915.43,
+          "url": "/uploads/678_image4_6a99bc1ee8.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:30.000Z",
+          "updated_at": "2022-02-22T12:25:30.000Z"
+        }
+      ]
+    },
+    {
+      "id": 1550,
+      "copyright": "H. Pahlisch",
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 682,
+          "name": "678-image3.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4032,
+          "height": 3024,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_678-image3.jpg",
+              "hash": "thumbnail_678_image3_4b3df0fffc",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 208,
+              "height": 156,
+              "size": 5.26,
+              "path": null,
+              "url": "/uploads/thumbnail_678_image3_4b3df0fffc.jpg"
+            },
+            "large": {
+              "name": "large_678-image3.jpg",
+              "hash": "large_678_image3_4b3df0fffc",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 750,
+              "size": 60.42,
+              "path": null,
+              "url": "/uploads/large_678_image3_4b3df0fffc.jpg"
+            },
+            "medium": {
+              "name": "medium_678-image3.jpg",
+              "hash": "medium_678_image3_4b3df0fffc",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 563,
+              "size": 37.85,
+              "path": null,
+              "url": "/uploads/medium_678_image3_4b3df0fffc.jpg"
+            },
+            "small": {
+              "name": "small_678-image3.jpg",
+              "hash": "small_678_image3_4b3df0fffc",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 375,
+              "size": 19.25,
+              "path": null,
+              "url": "/uploads/small_678_image3_4b3df0fffc.jpg"
+            }
+          },
+          "hash": "678_image3_4b3df0fffc",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1062.51,
+          "url": "/uploads/678_image3_4b3df0fffc.jpg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-02-22T12:25:31.000Z",
+          "updated_at": "2022-02-22T12:25:31.000Z"
+        }
+      ]
+    },
+    {
+      "id": 2164,
+      "copyright": null,
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 1567,
+          "name": "HU_31.jpeg",
+          "alternativeText": "",
+          "caption": "",
+          "width": 3801,
+          "height": 3904,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_HU_31.jpeg",
+              "hash": "thumbnail_HU_31_d62c56e321",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "width": 152,
+              "height": 156,
+              "size": 2.35,
+              "path": null,
+              "url": "/uploads/thumbnail_HU_31_d62c56e321.jpeg"
+            },
+            "large": {
+              "name": "large_HU_31.jpeg",
+              "hash": "large_HU_31_d62c56e321",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "width": 974,
+              "height": 1000,
+              "size": 30.28,
+              "path": null,
+              "url": "/uploads/large_HU_31_d62c56e321.jpeg"
+            },
+            "medium": {
+              "name": "medium_HU_31.jpeg",
+              "hash": "medium_HU_31_d62c56e321",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "width": 730,
+              "height": 750,
+              "size": 18.99,
+              "path": null,
+              "url": "/uploads/medium_HU_31_d62c56e321.jpeg"
+            },
+            "small": {
+              "name": "small_HU_31.jpeg",
+              "hash": "small_HU_31_d62c56e321",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "width": 487,
+              "height": 500,
+              "size": 10.49,
+              "path": null,
+              "url": "/uploads/small_HU_31_d62c56e321.jpeg"
+            }
+          },
+          "hash": "HU_31_d62c56e321",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "size": 410.95,
+          "url": "/uploads/HU_31_d62c56e321.jpeg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2023-01-05T13:24:59.000Z",
+          "updated_at": "2023-01-05T13:24:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": 2165,
+      "copyright": null,
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 1568,
+          "name": "HU_31:2.JPG",
+          "alternativeText": "",
+          "caption": "",
+          "width": 3803,
+          "height": 4016,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_HU_31:2.JPG",
+              "hash": "thumbnail_HU_31_2_90bbe0d4e8",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 148,
+              "height": 156,
+              "size": 2.1,
+              "path": null,
+              "url": "/uploads/thumbnail_HU_31_2_90bbe0d4e8.JPG"
+            },
+            "large": {
+              "name": "large_HU_31:2.JPG",
+              "hash": "large_HU_31_2_90bbe0d4e8",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 947,
+              "height": 1000,
+              "size": 27.13,
+              "path": null,
+              "url": "/uploads/large_HU_31_2_90bbe0d4e8.JPG"
+            },
+            "medium": {
+              "name": "medium_HU_31:2.JPG",
+              "hash": "medium_HU_31_2_90bbe0d4e8",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 710,
+              "height": 750,
+              "size": 17.21,
+              "path": null,
+              "url": "/uploads/medium_HU_31_2_90bbe0d4e8.JPG"
+            },
+            "small": {
+              "name": "small_HU_31:2.JPG",
+              "hash": "small_HU_31_2_90bbe0d4e8",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 473,
+              "height": 500,
+              "size": 9.35,
+              "path": null,
+              "url": "/uploads/small_HU_31_2_90bbe0d4e8.JPG"
+            }
+          },
+          "hash": "HU_31_2_90bbe0d4e8",
+          "ext": ".JPG",
+          "mime": "image/jpeg",
+          "size": 420.02,
+          "url": "/uploads/HU_31_2_90bbe0d4e8.JPG",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2023-01-05T13:24:59.000Z",
+          "updated_at": "2023-01-05T13:24:59.000Z"
+        }
+      ]
+    }
+  ],
+  "mediabox": null,
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    },
+    {
+      "id": 70,
+      "name": "Schilling",
+      "classification": 6
+    }
+  ],
+  "lang": "de"
+}

@@ -1,0 +1,198 @@
+{
+  "id": 1026,
+  "name": "Epicycloid",
+  "shorttext": "Epicycloid",
+  "text": "",
+  "size": "",
+  "weight": "",
+  "price": "",
+  "status": "online",
+  "propertySince": "",
+  "objectNumber": "HU1",
+  "catalogueNumber": "",
+  "creationDate": "",
+  "links": "",
+  "oldId": null,
+  "comment": "HU Nummer 1",
+  "condition": null,
+  "modelcollection": {
+    "id": 7,
+    "shortname": "HU Berlin",
+    "uri": "HU-Berlin",
+    "name": "Mathematische Modelle (HU Berlin)",
+    "institution": "Humboldt-Universität zu Berlin",
+    "department": "Institut für Mathematik",
+    "address": "Rudower Chaussee 25, 12489 Berlin",
+    "link": "",
+    "VIAF": "",
+    "contact_name": "Heike Pahlisch",
+    "contact_mail": "institut-mathematik.sek@hu-berlin.de",
+    "status": "online",
+    "created_at": "2022-02-22T12:21:02.000Z",
+    "updated_at": "2023-01-10T10:05:58.000Z",
+    "logo": {
+      "id": 1506,
+      "name": "hu_siegel-kombi_rgb.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1524,
+      "height": 844,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_hu_siegel-kombi_rgb.jpg",
+          "hash": "thumbnail_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 136,
+          "size": 5.59,
+          "path": null,
+          "url": "/uploads/thumbnail_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "large": {
+          "name": "large_hu_siegel-kombi_rgb.jpg",
+          "hash": "large_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 554,
+          "size": 39.47,
+          "path": null,
+          "url": "/uploads/large_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "medium": {
+          "name": "medium_hu_siegel-kombi_rgb.jpg",
+          "hash": "medium_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 415,
+          "size": 26.9,
+          "path": null,
+          "url": "/uploads/medium_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "small": {
+          "name": "small_hu_siegel-kombi_rgb.jpg",
+          "hash": "small_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 277,
+          "size": 15.37,
+          "path": null,
+          "url": "/uploads/small_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        }
+      },
+      "hash": "hu_siegel_kombi_rgb_7c5fe374fa",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 70.91,
+      "url": "/uploads/hu_siegel_kombi_rgb_7c5fe374fa.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2022-11-07T17:23:20.000Z",
+      "updated_at": "2022-11-07T17:23:20.000Z"
+    }
+  },
+  "created_at": "2022-12-07T17:18:59.000Z",
+  "updated_at": "2023-01-12T09:14:31.000Z",
+  "images": [
+    {
+      "id": 2104,
+      "copyright": "HU Berlin",
+      "caption": null,
+      "online": true,
+      "translation": [
+        {
+          "id": 394,
+          "caption": " Epizykloid",
+          "language": {
+            "id": 2,
+            "name": "german",
+            "caption": "deutsch",
+            "abbreviation": "de",
+            "static_text": 2,
+            "created_at": "2022-02-22T12:20:46.000Z",
+            "updated_at": "2022-02-23T13:18:01.000Z"
+          }
+        }
+      ],
+      "image": [
+        {
+          "id": 1507,
+          "name": "HU_1.JPG",
+          "alternativeText": "",
+          "caption": "",
+          "width": 5528,
+          "height": 3513,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_HU_1.JPG",
+              "hash": "thumbnail_HU_1_c7d2c0c0d9",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 245,
+              "height": 156,
+              "size": 2.62,
+              "path": null,
+              "url": "/uploads/thumbnail_HU_1_c7d2c0c0d9.JPG"
+            },
+            "large": {
+              "name": "large_HU_1.JPG",
+              "hash": "large_HU_1_c7d2c0c0d9",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 635,
+              "size": 19.68,
+              "path": null,
+              "url": "/uploads/large_HU_1_c7d2c0c0d9.JPG"
+            },
+            "medium": {
+              "name": "medium_HU_1.JPG",
+              "hash": "medium_HU_1_c7d2c0c0d9",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 477,
+              "size": 12.29,
+              "path": null,
+              "url": "/uploads/medium_HU_1_c7d2c0c0d9.JPG"
+            },
+            "small": {
+              "name": "small_HU_1.JPG",
+              "hash": "small_HU_1_c7d2c0c0d9",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 318,
+              "size": 6.6,
+              "path": null,
+              "url": "/uploads/small_HU_1_c7d2c0c0d9.JPG"
+            }
+          },
+          "hash": "HU_1_c7d2c0c0d9",
+          "ext": ".JPG",
+          "mime": "image/jpeg",
+          "size": 547.09,
+          "url": "/uploads/HU_1_c7d2c0c0d9.JPG",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2022-12-07T17:18:38.000Z",
+          "updated_at": "2022-12-07T17:18:38.000Z"
+        }
+      ]
+    }
+  ],
+  "mediabox": null,
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ],
+  "lang": "de"
+}
