@@ -39,4 +39,6 @@ To use this toolset, follow these steps:
     - Downloaded model items are saved in the `/output/models` directory.
     - A report detailing successful and unsuccessful fetches is saved in `/output/reports/fetch-report.json`.
 
+## Prerequisites
 
+Tested for Node.js ^20.9.0.
