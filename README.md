@@ -41,4 +41,4 @@ To use this toolset, follow these steps:
 
 ## Prerequisites
 
-Tested for Node.js ^20.9.0.
+This toolset has been tested with Node.js version 20.9.0 or higher.

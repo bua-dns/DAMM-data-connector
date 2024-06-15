@@ -1,7 +1,7 @@
 {
   "name": "js-fetcher-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a work in progress in an early stage - not yet ready for production use!",
   "main": "index.js",
   "type": "module",
   "scripts": {
