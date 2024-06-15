@@ -18,6 +18,10 @@ Endpoint for fetching a single item:
 
 Since it is not possible to fetch all items of a collection at once, the script first fetches the collection information and extracts the item IDs for that collection. In a second step, the items are fetched one at a time.
 
+## Configuration
+
+Endpoints of the data source and the specific collection that shall be fetched and mapped ist configured in /config/project.js.
+
 ## Usage
 
 To use this toolset, follow these steps:
