@@ -32,8 +32,8 @@ To use this toolset, follow these steps:
 1. **Clone the repository and install dependencies:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/bua-dns/DAMM-data-connector .
+    cd DAMM-data-connector
     npm install
     ```
 
