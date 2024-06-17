@@ -1,6 +1,34 @@
 {
+  "dammId": 680,
+  "oldId": 937,
+  "dammLink": "https://mathematical-models.org/en/models/680",
   "name": "Epicycloid",
   "shorttext": "Modell 1 (Zuordnung unbekannt)",
   "size": "30",
-  "objectNumber": "HU3"
+  "objectNumber": "HU3",
+  "images": [
+    {
+      "copyright": "HU Berlin",
+      "url": "https://mathematical-models.org/api/uploads/large_HU_3_a69f445111.JPG"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_680_M2_01_a67380ddd0.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_680_M2_02_c7ad9ebacc.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_680_M2_03_f54805d7ed.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
 }

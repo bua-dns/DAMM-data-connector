@@ -1,5 +1,25 @@
 {
+  "dammId": 1058,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1058",
   "name": "HU 35",
   "shorttext": "HU 35",
-  "comment": "HU Nummer 35"
+  "comment": "HU Nummer 35",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_35_67f71a0f96.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_35_2_e19e70ef3b.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
 }

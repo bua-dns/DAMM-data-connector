@@ -1,7 +1,25 @@
 {
+  "dammId": 684,
+  "oldId": 941,
+  "dammLink": "https://mathematical-models.org/en/models/684",
   "name": "Conic section",
   "shorttext": "Ein Kegelschnitt ist eine Kurve, die entsteht, wenn man die Oberfläche eines Kegels mit einer Ebene schneidet.\r\n\r\nAls Schnittfiguren ergeben sich dabei:\r\n- ein Kreis, wenn die Schnittebene senkrecht auf der Kegelachse steht\r\n- eine Ellipse, wenn der Winkel zwischen Achse und Ebene größer als der Öffnungswinkel ist\r\n- eine Parabel, wenn der Winkel zwischen Achse und Ebene gleich dem Öffnungswinkel ist\r\n- eine Hyperbel, wenn der Winkel zwischen Achse und Ebene kleiner als der Öffnungswinkel ist",
   "size": "10-15",
   "creationDate": "16.06.2017",
-  "comment": "Material: Kunststoff"
+  "comment": "Material: Kunststoff",
+  "images": [
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_684_kegelschnitt3_944d2197e1.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_684_kegelschnitt2_3ca20eca8f.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_684_kegelschnitt1_31602ea964.jpg"
+    }
+  ],
+  "categories": []
 }

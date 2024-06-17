@@ -1,8 +1,28 @@
 {
+  "dammId": 686,
+  "oldId": 946,
+  "dammLink": "https://mathematical-models.org/en/models/686",
   "name": "Peano surface",
   "shorttext": "Peanosche Fläche",
   "size": "25",
   "catalogueNumber": "606/117b",
   "creationDate": "22.06.2017",
-  "comment": "Material: Kunststoff"
+  "comment": "Material: Kunststoff",
+  "images": [
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_686_peanosche_1_1cc8ac2ec3.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_686_peanosche_2_fe3d673de1.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 71,
+      "name": "Stoll",
+      "classification": 6
+    }
+  ]
 }

@@ -1,6 +1,22 @@
 {
+  "dammId": 1026,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1026",
   "name": "Epicycloid",
   "shorttext": "Epicycloid",
   "objectNumber": "HU1",
-  "comment": "HU Nummer 1"
+  "comment": "HU Nummer 1",
+  "images": [
+    {
+      "copyright": "HU Berlin",
+      "url": "https://mathematical-models.org/api/uploads/large_HU_1_c7d2c0c0d9.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
 }

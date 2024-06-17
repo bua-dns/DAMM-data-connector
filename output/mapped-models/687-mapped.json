@@ -1,8 +1,41 @@
 {
+  "dammId": 687,
+  "oldId": 947,
+  "dammLink": "https://mathematical-models.org/en/models/687",
   "name": "Modell 3 (Zuordnung unbekannt)",
   "shorttext": "Modell 3 (Zuordnung unbekannt)",
   "size": "15",
   "catalogueNumber": "413/151b",
   "creationDate": "22.06.2017",
-  "comment": "Material: Kunststoff, Oberseite: rot, Unterseite: grau\nHU Nummer 37"
+  "comment": "Material: Kunststoff, Oberseite: rot, Unterseite: grau\nHU Nummer 37",
+  "images": [
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_687_m_3_1_4eadf24e96.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_687_m_3_2_48237a4ebf.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_687_m_3_4_5969ce6bd8.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_687_m_3_3_bffbc059ab.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 71,
+      "name": "Stoll",
+      "classification": 6
+    },
+    {
+      "id": 2,
+      "name": "Plastic",
+      "classification": 1
+    }
+  ]
 }

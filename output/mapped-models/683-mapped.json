@@ -1,8 +1,18 @@
 {
+  "dammId": 683,
+  "oldId": 940,
+  "dammLink": "https://mathematical-models.org/en/models/683",
   "name": "Cylindric section",
   "shorttext": "If a circular cylinder is intersected by a plane that is not parallel to the axis of the cylinder, the intersection curve is an ellipse.",
   "text": "If a circular cylinder is intersected by a plane that is not parallel to the axis of the cylinder, the intersection curve is an ellipse.",
   "size": "28",
   "creationDate": "16.06.2017",
-  "comment": "Material: Kunststoff"
+  "comment": "Material: Kunststoff",
+  "images": [
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_683_schnitt_kreiszylinder_cc97ca1dae.jpg"
+    }
+  ],
+  "categories": []
 }

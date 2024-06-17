@@ -1,4 +1,20 @@
 {
+  "dammId": 1063,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1063",
   "name": "HU Number 41",
-  "comment": "HU Nummer 41"
+  "comment": "HU Nummer 41",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_41_cfb6c73d3a.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
 }

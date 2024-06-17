@@ -1,7 +1,25 @@
 {
+  "dammId": 681,
+  "oldId": 938,
+  "dammLink": "https://mathematical-models.org/en/models/681",
   "name": "Circular slide rule",
   "shorttext": "Rechenscheibe",
   "size": "40",
   "objectNumber": "HU164",
-  "creationDate": "12.06.2017"
+  "creationDate": "12.06.2017",
+  "images": [
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_681_Rechenscheibe_2_33549ec023.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_681_Rechenscheibe_3_487816d31d.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_681_Rechenscheibe_1_dd5f97ee8a.jpg"
+    }
+  ],
+  "categories": []
 }

@@ -1,8 +1,49 @@
 {
+  "dammId": 678,
+  "oldId": 935,
+  "dammLink": "https://mathematical-models.org/en/models/678",
   "name": "Hyperboloid of two sheets",
   "shorttext": "Hyperboloid of two sheets",
   "size": "30",
   "catalogueNumber": "XXIII 3",
   "creationDate": "07.06.2017",
-  "comment": "HU Nummer 31"
+  "comment": "HU Nummer 31",
+  "images": [
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_678_image2_f3a56f4f2d.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_678_image1_8ede84430d.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_678_image4_6a99bc1ee8.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_678_image3_4b3df0fffc.jpg"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_31_d62c56e321.jpeg"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_31_2_90bbe0d4e8.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    },
+    {
+      "id": 70,
+      "name": "Schilling",
+      "classification": 6
+    }
+  ]
 }

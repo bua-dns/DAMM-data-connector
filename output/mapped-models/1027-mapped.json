@@ -1,5 +1,15 @@
 {
+  "dammId": 1027,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1027",
   "name": "Epicycloid - Cardioid ",
   "shorttext": "Epicycloid - Cardioid ",
-  "objectNumber": "HU2"
+  "objectNumber": "HU2",
+  "images": [
+    {
+      "copyright": "HU Berlin",
+      "url": "https://mathematical-models.org/api/uploads/large_HU_2_35df321098.JPG"
+    }
+  ],
+  "categories": []
 }

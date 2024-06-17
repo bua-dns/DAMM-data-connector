@@ -1,7 +1,27 @@
 {
+  "dammId": 1032,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1032",
   "name": "HU Nummer 8",
   "shorttext": "HU Nummer 8",
   "text": "HU Nummer 8",
   "objectNumber": "HU8",
-  "comment": "HU Nummer 8"
+  "comment": "HU Nummer 8",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_8_2b59f864a9.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_8_2_7a3ddd298e.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
 }

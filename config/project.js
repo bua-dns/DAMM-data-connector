@@ -1,6 +1,8 @@
 export const config = {
-    baseUrl: 'https://mathematical-models.org/api',
-    collectionInfoPath: 'collections',
-    itemsPath: 'models',
+    baseUrl: 'https://mathematical-models.org',
+    collectionInfoPath: 'api/collections',
+    itemsPath: 'api/models',
+    imagesPath: 'api',
+    guiItemPath: 'en/models',
     collectionId: 7
 }

@@ -1,6 +1,24 @@
 {
+  "dammId": 685,
+  "oldId": 942,
+  "dammLink": "https://mathematical-models.org/en/models/685",
   "name": "Oloid",
   "shorttext": "Oloid",
   "size": "15",
-  "comment": "Material: Papier"
+  "comment": "Material: Papier",
+  "images": [
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_685_oloid1_fc19671ce1.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_685_oloid3_a4d68430a2.jpg"
+    },
+    {
+      "copyright": "H. Pahlisch",
+      "url": "https://mathematical-models.org/api/uploads/large_685_oloid2_c64cf8b0b1.jpg"
+    }
+  ],
+  "categories": []
 }
