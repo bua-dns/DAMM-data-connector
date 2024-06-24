@@ -1,0 +1,27 @@
+{
+  "dammId": 1040,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1040",
+  "name": "HU Nummer 16",
+  "shorttext": "HU Nummer 16",
+  "text": "HU Nummer 16",
+  "objectNumber": "HU16",
+  "comment": "HU Nummer 16",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_16_54a60c118d.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_16_2_92ae2431da.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

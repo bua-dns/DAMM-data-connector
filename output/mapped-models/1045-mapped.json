@@ -1,0 +1,27 @@
+{
+  "dammId": 1045,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1045",
+  "name": "HU Nummer 21",
+  "shorttext": "HU Nummer 21",
+  "text": "HU Nummer 21",
+  "objectNumber": "HU21",
+  "comment": "HU Nummer 21",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_21_c4979f5e66.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_21_2_6964cd5260.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

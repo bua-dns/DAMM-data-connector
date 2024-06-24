@@ -1,0 +1,27 @@
+{
+  "dammId": 1052,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1052",
+  "name": "HU Nummer 28",
+  "shorttext": "HU Nummer 28",
+  "text": "HU Nummer 28",
+  "objectNumber": "HU28",
+  "comment": "HU Nummer 28",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_28_996a6d771f.jpeg"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_28_2_9fe213a597.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

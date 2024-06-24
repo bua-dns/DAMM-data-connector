@@ -1,0 +1,31 @@
+{
+  "dammId": 1053,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1053",
+  "name": "Peano Surface",
+  "shorttext": "Peano Surface",
+  "text": "Peano Surface",
+  "objectNumber": "HU29",
+  "comment": "HU Nummer 29",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_29_3604fdbbf0.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_29_2_008ef67ab6.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_29_3_2e0f2b24cc.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "dammId": 1047,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1047",
+  "name": "HU Nummer 23",
+  "shorttext": "HU Nummer 23",
+  "text": "HU Nummer 23",
+  "objectNumber": "HU23",
+  "comment": "HU Nummer 23",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_23_ece9ef4e03.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_23_2_c167a5af28.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    },
+    {
+      "id": 29,
+      "name": "Geometry",
+      "classification": 9
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dammId": 1061,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1061",
+  "name": "HU Nummer 39",
+  "shorttext": "HU Nummer 39",
+  "text": "HU Nummer 39",
+  "comment": "HU Nummer 39",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_DJL_6913_d55b6aff51.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_DJL_6912_5aaee4e81b.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

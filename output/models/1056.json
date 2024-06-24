@@ -1,0 +1,330 @@
+{
+  "id": 1056,
+  "name": "HU Nummer 33",
+  "shorttext": "HU Nummer 33",
+  "text": "HU Nummer 33",
+  "size": "",
+  "weight": "",
+  "price": "",
+  "status": "online",
+  "propertySince": "",
+  "objectNumber": "",
+  "catalogueNumber": "",
+  "creationDate": "",
+  "links": null,
+  "oldId": null,
+  "comment": "HU Nummer 33",
+  "condition": null,
+  "modelcollection": {
+    "id": 7,
+    "shortname": "HU Berlin",
+    "uri": "HU-Berlin",
+    "name": "Mathematische Modelle (HU Berlin)",
+    "institution": "Humboldt-Universität zu Berlin",
+    "department": "Institut für Mathematik",
+    "address": "Rudower Chaussee 25, 12489 Berlin",
+    "link": "",
+    "VIAF": "",
+    "contact_name": "Heike Pahlisch",
+    "contact_mail": "institut-mathematik.sek@hu-berlin.de",
+    "status": "online",
+    "created_at": "2022-02-22T12:21:02.000Z",
+    "updated_at": "2023-01-10T10:05:58.000Z",
+    "logo": {
+      "id": 1506,
+      "name": "hu_siegel-kombi_rgb.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1524,
+      "height": 844,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_hu_siegel-kombi_rgb.jpg",
+          "hash": "thumbnail_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 136,
+          "size": 5.59,
+          "path": null,
+          "url": "/uploads/thumbnail_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "large": {
+          "name": "large_hu_siegel-kombi_rgb.jpg",
+          "hash": "large_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 554,
+          "size": 39.47,
+          "path": null,
+          "url": "/uploads/large_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "medium": {
+          "name": "medium_hu_siegel-kombi_rgb.jpg",
+          "hash": "medium_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 415,
+          "size": 26.9,
+          "path": null,
+          "url": "/uploads/medium_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        },
+        "small": {
+          "name": "small_hu_siegel-kombi_rgb.jpg",
+          "hash": "small_hu_siegel_kombi_rgb_7c5fe374fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 277,
+          "size": 15.37,
+          "path": null,
+          "url": "/uploads/small_hu_siegel_kombi_rgb_7c5fe374fa.jpg"
+        }
+      },
+      "hash": "hu_siegel_kombi_rgb_7c5fe374fa",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 70.91,
+      "url": "/uploads/hu_siegel_kombi_rgb_7c5fe374fa.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2022-11-07T17:23:20.000Z",
+      "updated_at": "2022-11-07T17:23:20.000Z"
+    }
+  },
+  "created_at": "2023-01-05T13:27:32.000Z",
+  "updated_at": "2024-06-23T10:08:13.000Z",
+  "images": [
+    {
+      "id": 2167,
+      "copyright": null,
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 1571,
+          "name": "HU_33.JPG",
+          "alternativeText": "",
+          "caption": "",
+          "width": 5186,
+          "height": 4016,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_HU_33.JPG",
+              "hash": "thumbnail_HU_33_7cb5426cae",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 201,
+              "height": 156,
+              "size": 4.16,
+              "path": null,
+              "url": "/uploads/thumbnail_HU_33_7cb5426cae.JPG"
+            },
+            "large": {
+              "name": "large_HU_33.JPG",
+              "hash": "large_HU_33_7cb5426cae",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 774,
+              "size": 50.82,
+              "path": null,
+              "url": "/uploads/large_HU_33_7cb5426cae.JPG"
+            },
+            "medium": {
+              "name": "medium_HU_33.JPG",
+              "hash": "medium_HU_33_7cb5426cae",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 581,
+              "size": 32.44,
+              "path": null,
+              "url": "/uploads/medium_HU_33_7cb5426cae.JPG"
+            },
+            "small": {
+              "name": "small_HU_33.JPG",
+              "hash": "small_HU_33_7cb5426cae",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 387,
+              "size": 17,
+              "path": null,
+              "url": "/uploads/small_HU_33_7cb5426cae.JPG"
+            }
+          },
+          "hash": "HU_33_7cb5426cae",
+          "ext": ".JPG",
+          "mime": "image/jpeg",
+          "size": 1327.36,
+          "url": "/uploads/HU_33_7cb5426cae.JPG",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2023-01-05T13:27:10.000Z",
+          "updated_at": "2023-01-05T13:27:10.000Z"
+        }
+      ]
+    },
+    {
+      "id": 2168,
+      "copyright": null,
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 1570,
+          "name": "HU_33:2.JPG",
+          "alternativeText": "",
+          "caption": "",
+          "width": 5154,
+          "height": 4016,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_HU_33:2.JPG",
+              "hash": "thumbnail_HU_33_2_f64845a238",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 200,
+              "height": 156,
+              "size": 3.56,
+              "path": null,
+              "url": "/uploads/thumbnail_HU_33_2_f64845a238.JPG"
+            },
+            "large": {
+              "name": "large_HU_33:2.JPG",
+              "hash": "large_HU_33_2_f64845a238",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 779,
+              "size": 39.04,
+              "path": null,
+              "url": "/uploads/large_HU_33_2_f64845a238.JPG"
+            },
+            "medium": {
+              "name": "medium_HU_33:2.JPG",
+              "hash": "medium_HU_33_2_f64845a238",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 584,
+              "size": 25.02,
+              "path": null,
+              "url": "/uploads/medium_HU_33_2_f64845a238.JPG"
+            },
+            "small": {
+              "name": "small_HU_33:2.JPG",
+              "hash": "small_HU_33_2_f64845a238",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 390,
+              "size": 13.46,
+              "path": null,
+              "url": "/uploads/small_HU_33_2_f64845a238.JPG"
+            }
+          },
+          "hash": "HU_33_2_f64845a238",
+          "ext": ".JPG",
+          "mime": "image/jpeg",
+          "size": 743.79,
+          "url": "/uploads/HU_33_2_f64845a238.JPG",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2023-01-05T13:27:10.000Z",
+          "updated_at": "2023-01-05T13:27:10.000Z"
+        }
+      ]
+    },
+    {
+      "id": 2169,
+      "copyright": null,
+      "caption": null,
+      "online": true,
+      "translation": [],
+      "image": [
+        {
+          "id": 1572,
+          "name": "HU_33:3.JPG",
+          "alternativeText": "",
+          "caption": "",
+          "width": 5214,
+          "height": 4016,
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_HU_33:3.JPG",
+              "hash": "thumbnail_HU_33_3_924eda086e",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 203,
+              "height": 156,
+              "size": 3.38,
+              "path": null,
+              "url": "/uploads/thumbnail_HU_33_3_924eda086e.JPG"
+            },
+            "large": {
+              "name": "large_HU_33:3.JPG",
+              "hash": "large_HU_33_3_924eda086e",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 1000,
+              "height": 770,
+              "size": 38.21,
+              "path": null,
+              "url": "/uploads/large_HU_33_3_924eda086e.JPG"
+            },
+            "medium": {
+              "name": "medium_HU_33:3.JPG",
+              "hash": "medium_HU_33_3_924eda086e",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 750,
+              "height": 578,
+              "size": 24.04,
+              "path": null,
+              "url": "/uploads/medium_HU_33_3_924eda086e.JPG"
+            },
+            "small": {
+              "name": "small_HU_33:3.JPG",
+              "hash": "small_HU_33_3_924eda086e",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "width": 500,
+              "height": 385,
+              "size": 12.65,
+              "path": null,
+              "url": "/uploads/small_HU_33_3_924eda086e.JPG"
+            }
+          },
+          "hash": "HU_33_3_924eda086e",
+          "ext": ".JPG",
+          "mime": "image/jpeg",
+          "size": 787.99,
+          "url": "/uploads/HU_33_3_924eda086e.JPG",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "created_at": "2023-01-05T13:27:10.000Z",
+          "updated_at": "2023-01-05T13:27:10.000Z"
+        }
+      ]
+    }
+  ],
+  "mediabox": null,
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ],
+  "lang": "de"
+}

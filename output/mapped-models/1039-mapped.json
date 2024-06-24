@@ -1,0 +1,23 @@
+{
+  "dammId": 1039,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1039",
+  "name": "HU Nummer 15",
+  "shorttext": "HU Nummer 15",
+  "text": "HU Nummer 15",
+  "objectNumber": "HU15",
+  "comment": "HU Nummer 15",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_15_a25b634fe2.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

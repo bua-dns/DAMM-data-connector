@@ -1,0 +1,27 @@
+{
+  "dammId": 1049,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1049",
+  "name": "HU Nummer 25",
+  "shorttext": "HU Nummer 25",
+  "text": "HU Nummer 25",
+  "objectNumber": "HU25",
+  "comment": "HU Nummer 25",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_25_148e36efc2.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_25_2_08a966964b.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

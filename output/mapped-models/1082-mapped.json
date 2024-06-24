@@ -1,0 +1,26 @@
+{
+  "dammId": 1082,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1082",
+  "name": "HU54",
+  "shorttext": "HU54",
+  "text": "HU54",
+  "comment": "HU Nummer 54",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_54_2_0ada324dfd.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_54_a91d0d7dff.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

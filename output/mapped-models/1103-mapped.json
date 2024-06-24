@@ -1,0 +1,26 @@
+{
+  "dammId": 1103,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1103",
+  "name": "HU Nummer 73",
+  "shorttext": "HU Nummer 73",
+  "text": "HU Nummer 73",
+  "comment": "HU Nummer 73",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_73_1_1d55117819.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_73_2_5fae2dc912.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dammId": 1085,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1085",
+  "name": "HU57",
+  "shorttext": "HU57",
+  "text": "HU57",
+  "comment": "HU Nummer 57",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_57_602d077ef6.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_57_2_79f8c1cdaa.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_57_3_7a535f6b1e.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

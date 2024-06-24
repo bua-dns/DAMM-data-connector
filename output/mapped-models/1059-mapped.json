@@ -1,0 +1,26 @@
+{
+  "dammId": 1059,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1059",
+  "name": "HU Nummer 36",
+  "shorttext": "HU Nummer 36",
+  "text": "HU Nummer 36",
+  "comment": "HU Nummer 36",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_36_120d05a526.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_36_2_56557773d2.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

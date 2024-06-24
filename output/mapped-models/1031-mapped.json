@@ -1,0 +1,27 @@
+{
+  "dammId": 1031,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1031",
+  "name": "HU Nummer 7",
+  "shorttext": "HU Nummer 7",
+  "text": "HU Nummer 7",
+  "objectNumber": "HU7",
+  "comment": "HU Nummer 7",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_7_8fea418d4c.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_7_2_3c6c9a62c7.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

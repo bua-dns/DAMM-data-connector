@@ -1,0 +1,20 @@
+{
+  "dammId": 1094,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1094",
+  "name": "HU64",
+  "shorttext": "HU64",
+  "text": "HU64",
+  "comment": "HU Nummer 64",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_64_2_64f4e4eb0d.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_64_1_5cf661936d.JPG"
+    }
+  ],
+  "categories": []
+}

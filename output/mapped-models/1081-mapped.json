@@ -1,0 +1,22 @@
+{
+  "dammId": 1081,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1081",
+  "name": "HU53",
+  "shorttext": "HU53",
+  "text": "HU53",
+  "comment": "HU Nummer 53",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_53_f77cf696f2.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

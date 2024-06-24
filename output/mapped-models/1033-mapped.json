@@ -1,0 +1,31 @@
+{
+  "dammId": 1033,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1033",
+  "name": "HU Nummer 9",
+  "shorttext": "HU Nummer 9",
+  "text": "HU Nummer 9",
+  "objectNumber": "HU9",
+  "comment": "HU Nummer 9",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_9_509aa70493.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_9_2_102f3bd5d4.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_9_3_86abd93335.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

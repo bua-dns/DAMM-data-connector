@@ -1,0 +1,36 @@
+{
+  "dammId": 1035,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1035",
+  "name": "HU Nummer 11",
+  "shorttext": "HU Nummer 11",
+  "text": "HU Nummer 11",
+  "objectNumber": "HU11",
+  "comment": "HU Nummer 11",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_11_1af2793b7b.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_11_3_f6a0f54a2f.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_11_2_7a41bf34ec.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    },
+    {
+      "id": 25,
+      "name": "Differential geometry",
+      "classification": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dammId": 1060,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1060",
+  "name": "HU Nummer 38",
+  "shorttext": "HU Nummer 38",
+  "text": "HU Nummer 38",
+  "comment": "HU Nummer 38",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_38_84d11940ce.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_38_2_baabcde95e.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_38_3_a4df30d8df.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

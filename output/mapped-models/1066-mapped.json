@@ -1,0 +1,21 @@
+{
+  "dammId": 1066,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1066",
+  "name": "HU Number 45",
+  "shorttext": "HU Number 45",
+  "text": "HU Number 45",
+  "objectNumber": "HU45",
+  "comment": "HU Nummer 45",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_45_a6585b6514.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_45_2_7e9be09bf2.JPG"
+    }
+  ],
+  "categories": []
+}

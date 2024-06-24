@@ -1,0 +1,27 @@
+{
+  "dammId": 1041,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1041",
+  "name": "HU Nummer 17",
+  "shorttext": "HU Nummer 17",
+  "text": "HU Nummer 17",
+  "objectNumber": "HU17",
+  "comment": "HU Nummer 17",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_17_dbcf5b4b28.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_17_2_e4e603d861.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

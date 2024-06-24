@@ -1,0 +1,32 @@
+{
+  "dammId": 1030,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1030",
+  "name": "Hyperbolic paraboloid",
+  "shorttext": "Hyperbolic paraboloid",
+  "text": "Hyperbolic paraboloid",
+  "objectNumber": "HU6",
+  "comment": "HU Nummer 6",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_6_5066367f4e.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_6_2_b2507a3eec.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    },
+    {
+      "id": 25,
+      "name": "Differential geometry",
+      "classification": 9
+    }
+  ]
+}

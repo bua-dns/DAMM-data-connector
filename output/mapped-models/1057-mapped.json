@@ -1,0 +1,26 @@
+{
+  "dammId": 1057,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1057",
+  "name": "HU Nummer 34",
+  "shorttext": "HU Nummer 34",
+  "text": "HU Nummer 34",
+  "comment": "HU Nummer 34",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_34_816a169209.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_34_2_15fc8533c2.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

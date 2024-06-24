@@ -1,0 +1,31 @@
+{
+  "dammId": 1034,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1034",
+  "name": "HU Nummer 10",
+  "shorttext": "HU Nummer 10",
+  "text": "HU Nummer 10",
+  "objectNumber": "HU10",
+  "comment": "HU Nummer 10",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_10_28733132ec.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_10_2_26174a629a.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_10_3_41ca28c2ab.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "dammId": 1048,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1048",
+  "name": "HU Nummer 24",
+  "shorttext": "HU Nummer 24",
+  "text": "HU Nummer 24",
+  "objectNumber": "HU24",
+  "comment": "HU Nummer 24",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_24_b5d1d8f635.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_24_2_d5c86dd390.JPG"
+    }
+  ],
+  "categories": []
+}

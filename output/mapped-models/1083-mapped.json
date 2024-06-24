@@ -1,0 +1,30 @@
+{
+  "dammId": 1083,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1083",
+  "name": "HU55",
+  "shorttext": "HU55",
+  "text": "HU55",
+  "comment": "HU Nummer 55",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_55_9dbf77fb69.jpeg"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_55_2_194cf6f8d1.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_55_3_c65e61e316.jpeg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

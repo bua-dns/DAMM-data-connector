@@ -1,0 +1,30 @@
+{
+  "dammId": 1084,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1084",
+  "name": "HU56",
+  "shorttext": "HU56",
+  "text": "HU56",
+  "comment": "HU Nummer 56",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_56_83f7d85ed4.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_56_2_ec27fb4161.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_56_3_de67690d9f.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

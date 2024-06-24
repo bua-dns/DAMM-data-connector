@@ -1,0 +1,31 @@
+{
+  "dammId": 1044,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1044",
+  "name": "HU Nummer 20",
+  "shorttext": "HU Nummer 20",
+  "text": "HU Nummer 20",
+  "objectNumber": "HU20",
+  "comment": "HU Nummer 20",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_20_384901a8a4.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_20_2_a9447fdc31.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_20_3_93d9172db1.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

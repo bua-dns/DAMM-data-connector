@@ -1,0 +1,23 @@
+{
+  "dammId": 1054,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1054",
+  "name": "HU Nummer 30",
+  "shorttext": "HU Nummer 30",
+  "text": "HU Nummer 30",
+  "objectNumber": "HU30",
+  "comment": "HU Nummer 30",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_30_94e1cbd313.jpeg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

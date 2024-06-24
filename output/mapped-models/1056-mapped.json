@@ -1,0 +1,30 @@
+{
+  "dammId": 1056,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1056",
+  "name": "HU Nummer 33",
+  "shorttext": "HU Nummer 33",
+  "text": "HU Nummer 33",
+  "comment": "HU Nummer 33",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_33_7cb5426cae.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_33_2_f64845a238.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_33_3_924eda086e.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dammId": 1087,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1087",
+  "name": "HU59",
+  "shorttext": "HU59",
+  "text": "HU59",
+  "comment": "HU Nummer 59",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_59_9d78bdcd19.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_59_2_81b49a368a.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

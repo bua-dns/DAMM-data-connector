@@ -1,0 +1,23 @@
+{
+  "dammId": 1038,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1038",
+  "name": "HU Nummer 14",
+  "shorttext": "HU Nummer 14",
+  "text": "HU Nummer 14",
+  "objectNumber": "HU14",
+  "comment": "HU Nummer 14",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_14_d5061f6e77.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Plastic",
+      "classification": 1
+    }
+  ]
+}

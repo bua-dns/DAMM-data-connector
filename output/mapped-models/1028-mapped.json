@@ -1,0 +1,32 @@
+{
+  "dammId": 1028,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1028",
+  "name": "Helicoid",
+  "shorttext": "Helicoid",
+  "text": "Helicoid",
+  "objectNumber": "HU4",
+  "comment": "HU Nummer 4",
+  "images": [
+    {
+      "copyright": "HU Berlin",
+      "url": "https://mathematical-models.org/api/uploads/large_HU_4_cdcb5ba144.JPG"
+    },
+    {
+      "copyright": "HU Berlin",
+      "url": "https://mathematical-models.org/api/uploads/large_HU_4_2_54d1043b60.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "Differential geometry",
+      "classification": 9
+    },
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

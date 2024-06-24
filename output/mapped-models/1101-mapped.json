@@ -1,0 +1,20 @@
+{
+  "dammId": 1101,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1101",
+  "name": "HU71",
+  "shorttext": "HU71",
+  "text": "HU71",
+  "comment": "HU Nummer 71",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_71_1_4b1279c709.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_71_2_e8ca431508.JPG"
+    }
+  ],
+  "categories": []
+}

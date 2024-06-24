@@ -20,7 +20,7 @@ function extractImageData(data) {
     .map(image => {
         return {
             copyright: image.copyright,
-            url: `${config.baseUrl}/${config.imagesPath}${image.image[0].formats.large.url}`
+            url: `${config.baseUrl}/${config.imagesPath}${image.image[0].formats.large?.url}`
         }
     });
 }
@@ -60,7 +60,6 @@ async function fetchModels() {
             const item = await itemsResponse.json();
 
             // analytics
-            // DEV: Placeholder for functionallity to check if a field is used in a given set of items
             if (item.condition) {
                 analytics.conditionValues.add(item.condition);
             }
@@ -74,7 +73,7 @@ async function fetchModels() {
             for (let key in mapping) {
                 if (mapping[key].ignore) continue;
                 if (mapping[key].type !== 'string') continue;
-                if (!item[key].trim()) continue;
+                if (!item[key]?.trim()) continue;
                 mappedItem[mapping[key].label] = item[key];
             }
             mappedItem.images = extractImageData(item.images);

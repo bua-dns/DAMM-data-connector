@@ -1,0 +1,27 @@
+{
+  "dammId": 1088,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1088",
+  "name": "HU60",
+  "shorttext": "HU60",
+  "text": "HU60",
+  "comment": "HU Nummer 60",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_DJL_7075_e2dcb01ad4.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Plastic",
+      "classification": 1
+    },
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

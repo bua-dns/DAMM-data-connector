@@ -1,0 +1,31 @@
+{
+  "dammId": 1050,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1050",
+  "name": "HU Nummer 26",
+  "shorttext": "HU Nummer 26",
+  "text": "HU Nummer 26",
+  "objectNumber": "HU26",
+  "comment": "HU Nummer 26",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_26_517b0445d1.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_26_2_fbefc10fa1.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_26_3_9bf2cfdf19.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

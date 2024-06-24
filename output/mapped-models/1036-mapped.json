@@ -1,0 +1,32 @@
+{
+  "dammId": 1036,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1036",
+  "name": "Elliptischer Zylinder",
+  "shorttext": "Elliptischer Zylinder",
+  "text": "Elliptischer Zylinder",
+  "objectNumber": "HU12",
+  "comment": "HU Nummer 12",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_12_978857209d.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_12_2_b22a369a58.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    },
+    {
+      "id": 29,
+      "name": "Geometry",
+      "classification": 9
+    }
+  ]
+}

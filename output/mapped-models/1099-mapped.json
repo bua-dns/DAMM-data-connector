@@ -1,0 +1,24 @@
+{
+  "dammId": 1099,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1099",
+  "name": "HU69",
+  "shorttext": "HU69",
+  "text": "HU69",
+  "comment": "HU Nummer 69",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_69_1_20b31b8d50.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_69_2_5724058a98.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_69_3_fc299cd57e.JPG"
+    }
+  ],
+  "categories": []
+}

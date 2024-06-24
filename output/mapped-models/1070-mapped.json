@@ -1,0 +1,20 @@
+{
+  "dammId": 1070,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1070",
+  "name": "Half of a one-sheet hyperboloid",
+  "shorttext": "Half of a one-sheet hyperboloid",
+  "text": "Hälfte eines einschaligen Hyperboloides",
+  "comment": "HU Nummer 49",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_49_7668a8cd1e.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_49_2_a6db1f21e6.JPG"
+    }
+  ],
+  "categories": []
+}

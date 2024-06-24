@@ -348,6 +348,113 @@
     "categories": []
   },
   {
+    "dammId": 1028,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1028",
+    "name": "Helicoid",
+    "shorttext": "Helicoid",
+    "text": "Helicoid",
+    "objectNumber": "HU4",
+    "comment": "HU Nummer 4",
+    "images": [
+      {
+        "copyright": "HU Berlin",
+        "url": "https://mathematical-models.org/api/uploads/large_HU_4_cdcb5ba144.JPG"
+      },
+      {
+        "copyright": "HU Berlin",
+        "url": "https://mathematical-models.org/api/uploads/large_HU_4_2_54d1043b60.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 25,
+        "name": "Differential geometry",
+        "classification": 9
+      },
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1029,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1029",
+    "name": "Epicycloid",
+    "shorttext": "Epicycloid",
+    "text": "Epicycloid",
+    "objectNumber": "HU5",
+    "images": [
+      {
+        "copyright": "HU Berlin",
+        "url": "https://mathematical-models.org/api/uploads/large_HU_5_72bef06cc5.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1030,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1030",
+    "name": "Hyperbolic paraboloid",
+    "shorttext": "Hyperbolic paraboloid",
+    "text": "Hyperbolic paraboloid",
+    "objectNumber": "HU6",
+    "comment": "HU Nummer 6",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_6_5066367f4e.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_6_2_b2507a3eec.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      },
+      {
+        "id": 25,
+        "name": "Differential geometry",
+        "classification": 9
+      }
+    ]
+  },
+  {
+    "dammId": 1031,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1031",
+    "name": "HU Nummer 7",
+    "shorttext": "HU Nummer 7",
+    "text": "HU Nummer 7",
+    "objectNumber": "HU7",
+    "comment": "HU Nummer 7",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_7_8fea418d4c.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_7_2_3c6c9a62c7.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
     "dammId": 1032,
     "oldId": null,
     "dammLink": "https://mathematical-models.org/en/models/1032",
@@ -364,6 +471,720 @@
       {
         "copyright": null,
         "url": "https://mathematical-models.org/api/uploads/large_HU_8_2_7a3ddd298e.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1033,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1033",
+    "name": "HU Nummer 9",
+    "shorttext": "HU Nummer 9",
+    "text": "HU Nummer 9",
+    "objectNumber": "HU9",
+    "comment": "HU Nummer 9",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_9_509aa70493.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_9_2_102f3bd5d4.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_9_3_86abd93335.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1034,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1034",
+    "name": "HU Nummer 10",
+    "shorttext": "HU Nummer 10",
+    "text": "HU Nummer 10",
+    "objectNumber": "HU10",
+    "comment": "HU Nummer 10",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_10_28733132ec.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_10_2_26174a629a.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_10_3_41ca28c2ab.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1035,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1035",
+    "name": "HU Nummer 11",
+    "shorttext": "HU Nummer 11",
+    "text": "HU Nummer 11",
+    "objectNumber": "HU11",
+    "comment": "HU Nummer 11",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_11_1af2793b7b.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_11_3_f6a0f54a2f.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_11_2_7a41bf34ec.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      },
+      {
+        "id": 25,
+        "name": "Differential geometry",
+        "classification": 9
+      }
+    ]
+  },
+  {
+    "dammId": 1036,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1036",
+    "name": "Elliptischer Zylinder",
+    "shorttext": "Elliptischer Zylinder",
+    "text": "Elliptischer Zylinder",
+    "objectNumber": "HU12",
+    "comment": "HU Nummer 12",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_12_978857209d.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_12_2_b22a369a58.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      },
+      {
+        "id": 29,
+        "name": "Geometry",
+        "classification": 9
+      }
+    ]
+  },
+  {
+    "dammId": 1037,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1037",
+    "name": "HU Nummer 13",
+    "shorttext": "HU Nummer 13",
+    "text": "HU Nummer 13",
+    "objectNumber": "HU13",
+    "comment": "HU Nummer 13",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_13_56c550bb52.jpeg"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_13_2_58612fb014.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_13_3_863519b7bd.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1038,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1038",
+    "name": "HU Nummer 14",
+    "shorttext": "HU Nummer 14",
+    "text": "HU Nummer 14",
+    "objectNumber": "HU14",
+    "comment": "HU Nummer 14",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_14_d5061f6e77.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Plastic",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1039,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1039",
+    "name": "HU Nummer 15",
+    "shorttext": "HU Nummer 15",
+    "text": "HU Nummer 15",
+    "objectNumber": "HU15",
+    "comment": "HU Nummer 15",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_15_a25b634fe2.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1040,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1040",
+    "name": "HU Nummer 16",
+    "shorttext": "HU Nummer 16",
+    "text": "HU Nummer 16",
+    "objectNumber": "HU16",
+    "comment": "HU Nummer 16",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_16_54a60c118d.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_16_2_92ae2431da.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1041,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1041",
+    "name": "HU Nummer 17",
+    "shorttext": "HU Nummer 17",
+    "text": "HU Nummer 17",
+    "objectNumber": "HU17",
+    "comment": "HU Nummer 17",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_17_dbcf5b4b28.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_17_2_e4e603d861.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1042,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1042",
+    "name": "HU Nummer 18",
+    "shorttext": "HU Nummer 18",
+    "text": "HU Nummer 18",
+    "objectNumber": "HU18",
+    "comment": "HU Nummer 18",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_18_be2474f0c2.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_18_2_c8a7589de3.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1043,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1043",
+    "name": "HU Nummer 19",
+    "shorttext": "HU Nummer 19",
+    "text": "HU Nummer 19",
+    "objectNumber": "HU19",
+    "comment": "HU Nummer 19",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_19_09c8b82b9c.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_19_2_b1db16234c.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1044,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1044",
+    "name": "HU Nummer 20",
+    "shorttext": "HU Nummer 20",
+    "text": "HU Nummer 20",
+    "objectNumber": "HU20",
+    "comment": "HU Nummer 20",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_20_384901a8a4.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_20_2_a9447fdc31.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_20_3_93d9172db1.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1045,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1045",
+    "name": "HU Nummer 21",
+    "shorttext": "HU Nummer 21",
+    "text": "HU Nummer 21",
+    "objectNumber": "HU21",
+    "comment": "HU Nummer 21",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_21_c4979f5e66.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_21_2_6964cd5260.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1046,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1046",
+    "name": "HU Nummer 22",
+    "shorttext": "HU Nummer 22",
+    "text": "HU Nummer 22",
+    "objectNumber": "HU22",
+    "catalogueNumber": "215/113",
+    "comment": "HU Nummer 22",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_22_894fb925c6.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_22_2_9f73c6e547.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 71,
+        "name": "Stoll",
+        "classification": 6
+      },
+      {
+        "id": 29,
+        "name": "Geometry",
+        "classification": 9
+      },
+      {
+        "id": 41,
+        "name": "Quadrics",
+        "classification": 2
+      }
+    ]
+  },
+  {
+    "dammId": 1047,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1047",
+    "name": "HU Nummer 23",
+    "shorttext": "HU Nummer 23",
+    "text": "HU Nummer 23",
+    "objectNumber": "HU23",
+    "comment": "HU Nummer 23",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_23_ece9ef4e03.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_23_2_c167a5af28.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      },
+      {
+        "id": 29,
+        "name": "Geometry",
+        "classification": 9
+      }
+    ]
+  },
+  {
+    "dammId": 1048,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1048",
+    "name": "HU Nummer 24",
+    "shorttext": "HU Nummer 24",
+    "text": "HU Nummer 24",
+    "objectNumber": "HU24",
+    "comment": "HU Nummer 24",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_24_b5d1d8f635.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_24_2_d5c86dd390.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1049,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1049",
+    "name": "HU Nummer 25",
+    "shorttext": "HU Nummer 25",
+    "text": "HU Nummer 25",
+    "objectNumber": "HU25",
+    "comment": "HU Nummer 25",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_25_148e36efc2.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_25_2_08a966964b.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1050,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1050",
+    "name": "HU Nummer 26",
+    "shorttext": "HU Nummer 26",
+    "text": "HU Nummer 26",
+    "objectNumber": "HU26",
+    "comment": "HU Nummer 26",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_26_517b0445d1.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_26_2_fbefc10fa1.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_26_3_9bf2cfdf19.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1051,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1051",
+    "name": "HU Nummer 27",
+    "shorttext": "HU Nummer 27",
+    "text": "HU Nummer 27",
+    "objectNumber": "HU27",
+    "comment": "HU Nummer 27",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_27_941d0f99d6.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_27_2_15cf93153b.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1052,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1052",
+    "name": "HU Nummer 28",
+    "shorttext": "HU Nummer 28",
+    "text": "HU Nummer 28",
+    "objectNumber": "HU28",
+    "comment": "HU Nummer 28",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_28_996a6d771f.jpeg"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_28_2_9fe213a597.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1053,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1053",
+    "name": "Peano Surface",
+    "shorttext": "Peano Surface",
+    "text": "Peano Surface",
+    "objectNumber": "HU29",
+    "comment": "HU Nummer 29",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_29_3604fdbbf0.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_29_2_008ef67ab6.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_29_3_2e0f2b24cc.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1054,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1054",
+    "name": "HU Nummer 30",
+    "shorttext": "HU Nummer 30",
+    "text": "HU Nummer 30",
+    "objectNumber": "HU30",
+    "comment": "HU Nummer 30",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_30_94e1cbd313.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1055,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1055",
+    "name": "HU Nummer 32",
+    "shorttext": "HU Nummer 32",
+    "text": "HU Nummer 32",
+    "catalogueNumber": "XXIII 3",
+    "comment": "HU Nummer 32",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_32_cd52f9718d.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 70,
+        "name": "Schilling",
+        "classification": 6
+      },
+      {
+        "id": 105,
+        "name": "Brill",
+        "classification": 5
+      }
+    ]
+  },
+  {
+    "dammId": 1056,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1056",
+    "name": "HU Nummer 33",
+    "shorttext": "HU Nummer 33",
+    "text": "HU Nummer 33",
+    "comment": "HU Nummer 33",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_33_7cb5426cae.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_33_2_f64845a238.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_33_3_924eda086e.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1057,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1057",
+    "name": "HU Nummer 34",
+    "shorttext": "HU Nummer 34",
+    "text": "HU Nummer 34",
+    "comment": "HU Nummer 34",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_34_816a169209.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_34_2_15fc8533c2.JPG"
       }
     ],
     "categories": [
@@ -400,6 +1221,108 @@
     ]
   },
   {
+    "dammId": 1059,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1059",
+    "name": "HU Nummer 36",
+    "shorttext": "HU Nummer 36",
+    "text": "HU Nummer 36",
+    "comment": "HU Nummer 36",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_36_120d05a526.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_36_2_56557773d2.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1060,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1060",
+    "name": "HU Nummer 38",
+    "shorttext": "HU Nummer 38",
+    "text": "HU Nummer 38",
+    "comment": "HU Nummer 38",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_38_84d11940ce.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_38_2_baabcde95e.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_38_3_a4df30d8df.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1061,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1061",
+    "name": "HU Nummer 39",
+    "shorttext": "HU Nummer 39",
+    "text": "HU Nummer 39",
+    "comment": "HU Nummer 39",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_DJL_6913_d55b6aff51.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_DJL_6912_5aaee4e81b.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1062,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1062",
+    "name": "HU Nummer 40",
+    "shorttext": "HU Nummer 40",
+    "text": "HU Nummer 40",
+    "comment": "HU Nummer 40",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_40_e5026dfa68.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_40_2_d05ebfc1a6.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
     "dammId": 1063,
     "oldId": null,
     "dammLink": "https://mathematical-models.org/en/models/1063",
@@ -418,5 +1341,2459 @@
         "classification": 1
       }
     ]
+  },
+  {
+    "dammId": 1064,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1064",
+    "name": "HU Number 42",
+    "shorttext": "HU Number 42",
+    "text": "HU Number 42",
+    "comment": "HU Nummer 42",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_42_47909c4263.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_42_2_eee4868797.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1065,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1065",
+    "name": "HU Number 43",
+    "shorttext": "HU Number 43",
+    "text": "HU Number 43",
+    "comment": "HU Nummer 43",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_43_cd790f591d.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_43_2_f3dc0a9ffe.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1066,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1066",
+    "name": "HU Number 45",
+    "shorttext": "HU Number 45",
+    "text": "HU Number 45",
+    "objectNumber": "HU45",
+    "comment": "HU Nummer 45",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_45_a6585b6514.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_45_2_7e9be09bf2.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1067,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1067",
+    "name": "HU46",
+    "shorttext": "HU46",
+    "text": "HU46",
+    "objectNumber": "HU46",
+    "comment": "HU Nummer 46",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_46_cd1b250b7b.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1068,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1068",
+    "name": "HU47",
+    "shorttext": "HU47",
+    "text": "HU47",
+    "objectNumber": "HU47",
+    "comment": "HU Nummer 47",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_47_e2a9eda1eb.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1069,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1069",
+    "name": "HU48",
+    "shorttext": "HU48",
+    "text": "HU48",
+    "objectNumber": "HU48",
+    "comment": "HU Nummer 48",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_48_95847c7f9c.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_48_2_3ae5c3e17a.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1070,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1070",
+    "name": "Half of a one-sheet hyperboloid",
+    "shorttext": "Half of a one-sheet hyperboloid",
+    "text": "Hälfte eines einschaligen Hyperboloides",
+    "comment": "HU Nummer 49",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_49_7668a8cd1e.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_49_2_a6db1f21e6.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1071,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1071",
+    "name": "HU50",
+    "shorttext": "HU50",
+    "text": "HU50",
+    "objectNumber": "HU50",
+    "comment": "HU Nummer 50",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_50_23540ac19f.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_50_2_ea9b34ef8a.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_50_3_9f8af2c29c.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_50_4_ae5ff7b0be.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1080,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1080",
+    "name": "HU51 und HU52",
+    "shorttext": "HU51 und HU52",
+    "text": "HU51 und HU52",
+    "comment": "HU Nummer 51/52",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_5152_78db876cc2.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_5152_2_73450d4757.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_5152_3_e012839f64.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_5152_4_d653d4e53d.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_5152_5_3be572fc36.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1081,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1081",
+    "name": "HU53",
+    "shorttext": "HU53",
+    "text": "HU53",
+    "comment": "HU Nummer 53",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_53_f77cf696f2.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1082,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1082",
+    "name": "HU54",
+    "shorttext": "HU54",
+    "text": "HU54",
+    "comment": "HU Nummer 54",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_54_2_0ada324dfd.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_54_a91d0d7dff.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1083,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1083",
+    "name": "HU55",
+    "shorttext": "HU55",
+    "text": "HU55",
+    "comment": "HU Nummer 55",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_55_9dbf77fb69.jpeg"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_55_2_194cf6f8d1.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_55_3_c65e61e316.jpeg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1084,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1084",
+    "name": "HU56",
+    "shorttext": "HU56",
+    "text": "HU56",
+    "comment": "HU Nummer 56",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_56_83f7d85ed4.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_56_2_ec27fb4161.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_56_3_de67690d9f.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1085,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1085",
+    "name": "HU57",
+    "shorttext": "HU57",
+    "text": "HU57",
+    "comment": "HU Nummer 57",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_57_602d077ef6.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_57_2_79f8c1cdaa.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_57_3_7a535f6b1e.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1086,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1086",
+    "name": "HU58",
+    "shorttext": "HU58",
+    "text": "HU58",
+    "comment": "HU Nummer 58",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_58_45b376ce13.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1087,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1087",
+    "name": "HU59",
+    "shorttext": "HU59",
+    "text": "HU59",
+    "comment": "HU Nummer 59",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_59_9d78bdcd19.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_59_2_81b49a368a.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1088,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1088",
+    "name": "HU60",
+    "shorttext": "HU60",
+    "text": "HU60",
+    "comment": "HU Nummer 60",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_DJL_7075_e2dcb01ad4.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "name": "Plastic",
+        "classification": 1
+      },
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1091,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1091",
+    "name": "HU61",
+    "shorttext": "HU61",
+    "text": "HU61",
+    "comment": "HU Nummer 61",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_61_2_3c14c0478f.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_61_1_fa0ed05a44.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1092,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1092",
+    "name": "HU62",
+    "shorttext": "HU62",
+    "text": "HU62",
+    "comment": "HU Nummer 62",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_62_2_d55af46528.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_62_1_0b2799adcd.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1093,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1093",
+    "name": "HU63",
+    "shorttext": "HU63",
+    "text": "HU63",
+    "comment": "HU Nummer 63",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_63_1_66ebc06036.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1094,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1094",
+    "name": "HU64",
+    "shorttext": "HU64",
+    "text": "HU64",
+    "comment": "HU Nummer 64",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_64_2_64f4e4eb0d.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_64_1_5cf661936d.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1095,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1095",
+    "name": "HU65",
+    "shorttext": "HU65",
+    "text": "HU65",
+    "comment": "HU Nummer 65",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_65_1_7bcf40ebde.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_65_2_7089395091.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1096,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1096",
+    "name": "HU66",
+    "shorttext": "HU Nummer 66",
+    "text": "HU Nummer 66",
+    "comment": "HU Nummer 66",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_66_1_82195e7f05.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_66_2_5dada0608c.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1097,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1097",
+    "name": "HU67",
+    "shorttext": "HU67",
+    "text": "HU67",
+    "comment": "HU Nummer 67",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_67_2_73819d32ea.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_67_1_4a54f02f36.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1099,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1099",
+    "name": "HU69",
+    "shorttext": "HU69",
+    "text": "HU69",
+    "comment": "HU Nummer 69",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_69_1_20b31b8d50.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_69_2_5724058a98.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_69_3_fc299cd57e.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1100,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1100",
+    "name": "HU70",
+    "shorttext": "HU70",
+    "text": "HU70",
+    "comment": "HU Nummer 70",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_70_1_1465328ee6.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_70_2_492d610842.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1101,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1101",
+    "name": "HU71",
+    "shorttext": "HU71",
+    "text": "HU71",
+    "comment": "HU Nummer 71",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_71_1_4b1279c709.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_71_2_e8ca431508.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1102,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1102",
+    "name": "HU72",
+    "shorttext": "HU72",
+    "text": "HU72",
+    "comment": "HU Nummer 72",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_72_1_f535c49f66.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1103,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1103",
+    "name": "HU Nummer 73",
+    "shorttext": "HU Nummer 73",
+    "text": "HU Nummer 73",
+    "comment": "HU Nummer 73",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_73_1_1d55117819.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_73_2_5fae2dc912.JPG"
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "name": "Plaster",
+        "classification": 1
+      }
+    ]
+  },
+  {
+    "dammId": 1104,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1104",
+    "name": "HU Nummer 74",
+    "shorttext": "HU Nummer 74",
+    "text": "HU Nummer 74",
+    "comment": "HU Nummer 74",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_74_1_ff50c6ab3c.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_74_2_62795d0602.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1105,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1105",
+    "name": "HU Nummer 75",
+    "shorttext": "HU Nummer 75",
+    "text": "HU Nummer 75",
+    "comment": "HU Nummer 75",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_75_1_0aa587d1ec.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_75_2_5bac5f563f.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1106,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1106",
+    "name": "HU Nummer 76",
+    "shorttext": "HU Nummer 76",
+    "text": "HU Nummer 76",
+    "comment": "HU Nummer 76",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_76_1_d948410273.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_76_2_b31601919b.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1107,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1107",
+    "name": "HU Nummer 77",
+    "shorttext": "HU Nummer 77",
+    "text": "HU Nummer 77",
+    "comment": "HU Nummer 77",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_77_1_5cd98ccd34.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1108,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1108",
+    "name": "HU Nummer 78",
+    "shorttext": "HU Nummer 78",
+    "text": "HU Nummer 78",
+    "comment": "HU Nummer 78",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_78_1_b3b0c216a4.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_78_2_3f929c5443.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1109,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1109",
+    "name": "HU Nummer 79",
+    "shorttext": "HU Nummer 79",
+    "text": "HU Nummer 79",
+    "comment": "HU Nummer 79",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_79_1_e2823ceb1d.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1110,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1110",
+    "name": "HU Nummer 80",
+    "shorttext": "HU Nummer 80",
+    "text": "HU Nummer 80",
+    "comment": "HU Nummer 80",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_80_1_46a7ae0cfc.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1111,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1111",
+    "name": "HU Nummer 81",
+    "shorttext": "HU Nummer 81",
+    "text": "HU Nummer 81",
+    "comment": "HU Nummer 81",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_81_1_74712bf4d8.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1112,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1112",
+    "name": "HU Nummer 82",
+    "shorttext": "HU Nummer 82",
+    "text": "HU Nummer 82",
+    "comment": "HU Nummer 82",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_82_1_e3d34ad408.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1113,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1113",
+    "name": "HU Nummer 83",
+    "shorttext": "HU Nummer 83",
+    "text": "HU Nummer 83",
+    "comment": "HU Nummer 83",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_83_1_c80e9b508c.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1114,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1114",
+    "name": "HU Nummer 84",
+    "shorttext": "HU Nummer 84",
+    "text": "HU Nummer 84",
+    "comment": "HU Nummer 84",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_84_1_af072e7030.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_84_2_349fef8da3.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_84_3_5b6166f2b0.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1115,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1115",
+    "name": "HU Nummer 85",
+    "shorttext": "HU Nummer 85",
+    "text": "HU Nummer 85",
+    "comment": "HU Nummer 85",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_85_1_2fe43e1269.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_85_2_be54c8ecfa.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1116,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1116",
+    "name": "HU Nummer 86",
+    "shorttext": "HU Nummer 86",
+    "text": "HU Nummer 86",
+    "comment": "HU Nummer 86",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_86_1_c4adb1dd5a.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1117,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1117",
+    "name": "HU Nummer 87",
+    "shorttext": "HU Nummer 87",
+    "text": "HU Nummer 87",
+    "comment": "HU Nummer 87",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_87_1_53f5911b8f.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1118,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1118",
+    "name": "HU Nummer 88",
+    "shorttext": "HU Nummer 88",
+    "text": "HU Nummer 88",
+    "comment": "HU Nummer 88",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_88_1_26536f5fdc.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_88_2_18216a7531.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1119,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1119",
+    "name": "HU Nummer 89",
+    "shorttext": "HU Nummer 89",
+    "text": "HU Nummer 89",
+    "comment": "HU Nummer 89",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_89_1_9900c05eeb.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1120,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1120",
+    "name": "HU Nummer 90",
+    "shorttext": "HU Nummer 90",
+    "text": "HU Nummer 90",
+    "comment": "HU Nummer 90",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_90_2_253ce8d629.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_90_1_a37f7d5772.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1121,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1121",
+    "name": "HU Nummer 91",
+    "shorttext": "HU Nummer 91",
+    "text": "HU Nummer 91",
+    "comment": "HU Nummer 91",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_91_1_240586b3a0.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1122,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1122",
+    "name": "HU Nummer 92",
+    "shorttext": "HU Nummer 92",
+    "text": "HU Nummer 92",
+    "comment": "HU Nummer 92",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_92_2_d8c5f8858f.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_92_1_e48d2bdaee.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1123,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1123",
+    "name": "HU Nummer 93",
+    "shorttext": "HU Nummer 93",
+    "text": "HU Nummer 93",
+    "comment": "HU Nummer 93",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_93_1_65c5855049.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_93_2_c67978814c.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1124,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1124",
+    "name": "HU Nummer 94",
+    "shorttext": "HU Nummer 94",
+    "text": "HU Nummer 94",
+    "comment": "HU Nummer 94",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_94_1_49029153a1.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_94_2_1496a33d99.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1125,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1125",
+    "name": "HU Nummer 95",
+    "shorttext": "HU Nummer 95",
+    "text": "HU Nummer 95",
+    "comment": "HU Nummer 95",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_95_1_604f744340.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1126,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1126",
+    "name": "HU Nummer 96",
+    "shorttext": "HU Nummer 96",
+    "text": "HU Nummer 96",
+    "comment": "HU Nummer 96",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_96_1_42310cbc3e.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1127,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1127",
+    "name": "HU Nummer 97",
+    "shorttext": "HU Nummer 97",
+    "text": "HU Nummer 97",
+    "comment": "HU Nummer 97",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_97_1_8052c52327.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1128,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1128",
+    "name": "HU Nummer 98",
+    "shorttext": "HU Nummer 98",
+    "text": "HU Nummer 98",
+    "comment": "HU Nummer 98",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_98_1_dd1b9610bd.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1129,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1129",
+    "name": "HU Nummer 99",
+    "shorttext": "HU Nummer 99",
+    "text": "HU Nummer 99",
+    "comment": "HU Nummer 99",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_99_1_27056b6e3d.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1130,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1130",
+    "name": "HU Nummer 100",
+    "shorttext": "HU Nummer 100",
+    "text": "HU Nummer 100",
+    "comment": "HU Nummer 100",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_100_1_adb1424472.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1131,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1131",
+    "name": "HU Nummer 101",
+    "shorttext": "HU Nummer 101",
+    "text": "HU Nummer 101",
+    "comment": "HU Nummer 101",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_101_1_eaef6dbfef.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1132,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1132",
+    "name": "HU Nummer 102",
+    "shorttext": "HU Nummer 102",
+    "text": "HU Nummer 102",
+    "comment": "HU Nummer 102",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_102_1_20322730ae.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1133,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1133",
+    "name": "HU Nummer 103",
+    "shorttext": "HU Nummer 103",
+    "text": "HU Nummer 103",
+    "comment": "HU Nummer 103",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_103_1_df27bc6040.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1134,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1134",
+    "name": "HU Nummer 104",
+    "shorttext": "HU Nummer 104",
+    "text": "HU Nummer 104",
+    "comment": "HU Nummer 104",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_104_1_eda0b9153a.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1135,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1135",
+    "name": "HU Nummer 105",
+    "shorttext": "HU Nummer 105",
+    "text": "HU Nummer 105",
+    "comment": "HU Nummer 105",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_105_1_d1f902bddf.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1136,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1136",
+    "name": "HU Nummer 106",
+    "shorttext": "HU Nummer 106",
+    "text": "HU Nummer 106",
+    "comment": "HU Nummer 106",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_106_1_fd6899e844.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1137,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1137",
+    "name": "HU Nummer 107",
+    "shorttext": "HU Nummer 107",
+    "text": "HU Nummer 107",
+    "comment": "HU Nummer 107",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_107_1_41ed74edd7.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1138,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1138",
+    "name": "HU Nummer 108",
+    "shorttext": "HU Nummer 108",
+    "text": "HU Nummer 108",
+    "comment": "HU Nummer 108",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_108_91806390a7.jpeg"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1139,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1139",
+    "name": "HU Nummer 109",
+    "shorttext": "HU Nummer 109",
+    "text": "HU Nummer 109",
+    "comment": "HU Nummer 109",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_109_310558f663.jpeg"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1140,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1140",
+    "name": "HU Nummer 110",
+    "shorttext": "HU Nummer 110",
+    "text": "HU Nummer 110",
+    "comment": "HU Nummer 110",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_110_df52c55a05.jpeg"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1141,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1141",
+    "name": "HU Nummer 111",
+    "shorttext": "HU Nummer 111",
+    "text": "HU Nummer 111",
+    "comment": "HU Nummer 111",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_111_0506286160.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1142,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1142",
+    "name": "HU Nummer 112",
+    "shorttext": "HU Nummer 112",
+    "text": "HU Nummer 112",
+    "comment": "HU Nummer 112",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_112_7ced918325.jpeg"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1143,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1143",
+    "name": "HU Nummer 113",
+    "shorttext": "HU Nummer 113",
+    "text": "HU Nummer 113",
+    "comment": "HU Nummer 113",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_113_1_75da5a3fe8.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_113_2_e54e9abbe9.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1144,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1144",
+    "name": "HU Nummer 114",
+    "shorttext": "HU Nummer 114",
+    "text": "HU Nummer 114",
+    "comment": "HU Nummer 114",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_114_1_d0a3106afc.JPG"
+      },
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_114_2_57fa15df6e.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1145,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1145",
+    "name": "HU Nummer 115",
+    "shorttext": "HU Nummer 115",
+    "text": "HU Nummer 115",
+    "comment": "HU Nummer 115",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_115_3268eee8f7.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1146,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1146",
+    "name": "HU Nummer 116",
+    "shorttext": "HU Nummer 116",
+    "text": "HU Nummer 116",
+    "comment": "HU Nummer 116",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_116_6db570f329.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1147,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1147",
+    "name": "HU Nummer 117",
+    "shorttext": "HU Nummer 117",
+    "text": "HU Nummer 117",
+    "comment": "HU Nummer 117",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_117_3f810c86f6.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1148,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1148",
+    "name": "HU Nummer 118",
+    "shorttext": "HU Nummer 118",
+    "text": "HU Nummer 118",
+    "comment": "HU Nummer 118",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_118_703ea2db51.JPG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1149,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1149",
+    "name": "HU Nummer 119",
+    "shorttext": "HU Nummer 119",
+    "text": "HU Nummer 119",
+    "comment": "HU Nummer 119",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_119_cdb962c293.jpeg"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1150,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1150",
+    "name": "HU Nummer 120",
+    "shorttext": "HU Nummer 120",
+    "text": "HU Nummer 120",
+    "comment": "HU Nummer 120",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_120_d2e909bf66.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1151,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1151",
+    "name": "HU Nummer 121",
+    "shorttext": "HU Nummer 121",
+    "text": "HU Nummer 121",
+    "comment": "HU Nummer 121",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_121_497d2b83c8.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1152,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1152",
+    "name": "HU Nummer 140",
+    "shorttext": "HU Nummer 140",
+    "text": "HU Nummer 140",
+    "comment": "HU Nummer 140",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_140_7be772468f.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1153,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1153",
+    "name": "HU Nummer 141",
+    "shorttext": "HU Nummer 141",
+    "text": "HU Nummer 141",
+    "comment": "HU Nummer 141",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_141_f5df954d65.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1154,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1154",
+    "name": "HU Nummer 142",
+    "shorttext": "HU Nummer 142",
+    "text": "HU Nummer 142",
+    "comment": "HU Nummer 142",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_142_7464549f62.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1155,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1155",
+    "name": "HU Nummer 143",
+    "shorttext": "HU Nummer 143",
+    "text": "HU Nummer 143",
+    "comment": "HU Nummer 143",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_143_e8e854eb42.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1156,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1156",
+    "name": "HU Nummer 144",
+    "shorttext": "HU Nummer 144",
+    "text": "HU Nummer 144",
+    "comment": "HU Nummer 144",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_144_60b75db77c.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1157,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1157",
+    "name": "HU Nummer 145",
+    "shorttext": "HU Nummer 145",
+    "text": "HU Nummer 145",
+    "comment": "HU Nummer 145",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_145_c4cdba458c.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1158,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1158",
+    "name": "HU Nummer 146",
+    "shorttext": "HU Nummer 146",
+    "text": "HU Nummer 146",
+    "comment": "HU Nummer 146",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_146_8e1ef90162.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1159,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1159",
+    "name": "HU Nummer 147",
+    "shorttext": "HU Nummer 147",
+    "text": "HU Nummer 147",
+    "comment": "HU Nummer 147",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_147_79232486ce.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1160,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1160",
+    "name": "HU Nummer 148",
+    "shorttext": "HU Nummer 148",
+    "text": "HU Nummer 148",
+    "comment": "HU Nummer 148",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_148_d3746f6ab8.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1161,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1161",
+    "name": "HU Nummer 149",
+    "shorttext": "HU Nummer 149",
+    "text": "HU Nummer 149",
+    "comment": "HU Nummer 149",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_149_40e19c5e72.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1162,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1162",
+    "name": "HU Nummer 150",
+    "shorttext": "HU Nummer 150",
+    "text": "HU Nummer 150",
+    "comment": "HU Nummer 150",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_150_3f03bcd4f2.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1163,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1163",
+    "name": "HU Nummer 151",
+    "shorttext": "HU Nummer 151",
+    "text": "HU Nummer 151",
+    "comment": "HU Nummer 151",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_151_7f27969163.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1164,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1164",
+    "name": "HU Nummer 152",
+    "shorttext": "HU Nummer 152",
+    "text": "HU Nummer 152",
+    "comment": "HU Nummer 152",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_152_5439c06bba.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1165,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1165",
+    "name": "HU Nummer 153",
+    "shorttext": "HU Nummer 153",
+    "text": "HU Nummer 153",
+    "comment": "HU Nummer 153",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_153_2bf059ba43.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1166,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1166",
+    "name": "HU Nummer 154",
+    "shorttext": "HU Nummer 154",
+    "text": "HU Nummer 154",
+    "comment": "HU Nummer 154",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_154_144c25512e.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1167,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1167",
+    "name": "HU Nummer 155",
+    "shorttext": "HU Nummer 155",
+    "text": "HU Nummer 155",
+    "comment": "HU Nummer 155",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_155_2f2649ad52.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1168,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1168",
+    "name": "HU Nummer 156",
+    "shorttext": "HU Nummer 156",
+    "text": "HU Nummer 156",
+    "comment": "HU Nummer 156",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_156_1b1f313741.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1169,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1169",
+    "name": "HU Nummer 157",
+    "shorttext": "HU Nummer 157",
+    "text": "HU Nummer 157",
+    "comment": "HU Nummer 157",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_157_1a4f81368e.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1170,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1170",
+    "name": "HU Nummer 158",
+    "shorttext": "HU Nummer 158",
+    "text": "HU Nummer 158",
+    "comment": "HU Nummer 158",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_158_0870335b7e.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1171,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1171",
+    "name": "HU Nummer 159",
+    "shorttext": "HU Nummer 159",
+    "text": "HU Nummer 159",
+    "comment": "HU Nummer 159",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_159_e450e29683.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1172,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1172",
+    "name": "HU Nummer 160",
+    "shorttext": "HU Nummer 160",
+    "text": "HU Nummer 160",
+    "comment": "HU Nummer 160",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_160_e90a1fe497.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1173,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1173",
+    "name": "HU Nummer 161",
+    "shorttext": "HU Nummer 161",
+    "text": "HU Nummer 161",
+    "comment": "HU Nummer 161",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_161_07a75531cb.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1174,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1174",
+    "name": "HU Nummer 162",
+    "shorttext": "HU Nummer 162",
+    "text": "HU Nummer 162",
+    "comment": "HU Nummer 162",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_162_05a99024f5.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1175,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1175",
+    "name": "HU Nummer 163",
+    "shorttext": "HU Nummer 163",
+    "text": "HU Nummer 163",
+    "comment": "HU Nummer 163",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_163_57e8e8035d.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1176,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1176",
+    "name": "HU Nummer 164",
+    "shorttext": "HU Nummer 164",
+    "text": "HU Nummer 164",
+    "comment": "HU Nummer 164",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_164_1b4a0164c2.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1177,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1177",
+    "name": "HU Nummer 165",
+    "shorttext": "HU Nummer 165",
+    "text": "HU Nummer 165",
+    "comment": "HU Nummer 165",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_165_01571f2e04.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1178,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1178",
+    "name": "HU Nummer 166",
+    "shorttext": "HU Nummer 166",
+    "text": "HU Nummer 166",
+    "comment": "HU Nummer 166",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_166_03015cba4e.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1179,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1179",
+    "name": "HU Nummer 167",
+    "shorttext": "HU Nummer 167",
+    "text": "HU Nummer 167",
+    "comment": "HU Nummer 167",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_167_2dd3aa662a.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1180,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1180",
+    "name": "HU Nummer 168",
+    "shorttext": "HU Nummer 168",
+    "text": "HU Nummer 168",
+    "comment": "HU Nummer 168",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_168_c0da9dac73.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1181,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1181",
+    "name": "HU Nummer 169",
+    "shorttext": "HU Nummer 169",
+    "text": "HU Nummer 169",
+    "comment": "HU Nummer 169",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_169_a20a15b969.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1182,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1182",
+    "name": "HU Nummer 170",
+    "shorttext": "HU Nummer 170",
+    "text": "HU Nummer 170",
+    "comment": "HU Nummer 170",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_170_abccb486fb.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1183,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1183",
+    "name": "HU Nummer 171",
+    "shorttext": "HU Nummer 171",
+    "text": "HU Nummer 171",
+    "comment": "HU Nummer 171",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_171_fafe10f108.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1184,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1184",
+    "name": "HU Nummer 172",
+    "shorttext": "HU Nummer 172",
+    "text": "HU Nummer 172",
+    "comment": "HU Nummer 172",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_172_e7f8db468d.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1185,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1185",
+    "name": "HU Nummer 173",
+    "shorttext": "HU Nummer 173",
+    "text": "HU Nummer 173",
+    "comment": "HU Nummer 173",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_173_5c95c64067.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1186,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1186",
+    "name": "HU Nummer 174",
+    "shorttext": "HU Nummer 174",
+    "text": "HU Nummer 174",
+    "comment": "HU Nummer 174",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_174_82fe968f98.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1187,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1187",
+    "name": "HU Nummer 175",
+    "shorttext": "HU Nummer 175",
+    "text": "HU Nummer 175",
+    "comment": "HU Nummer 175",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_175_84f74d692f.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1188,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1188",
+    "name": "HU Nummer 176",
+    "shorttext": "HU Nummer 176",
+    "text": "HU Nummer 176",
+    "comment": "HU Nummer 176",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_176_303e3c1143.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1189,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1189",
+    "name": "HU Nummer 177",
+    "shorttext": "HU Nummer 177",
+    "text": "HU Nummer 177",
+    "comment": "HU Nummer 177",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_177_72c0f47e6e.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1190,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1190",
+    "name": "HU Nummer 178",
+    "shorttext": "HU Nummer 178",
+    "text": "HU Nummer 178",
+    "comment": "HU Nummer 178",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_178_0cbd48de84.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1191,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1191",
+    "name": "HU Nummer 179",
+    "shorttext": "HU Nummer 179",
+    "text": "HU Nummer 179",
+    "comment": "HU Nummer 179",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_179_ac372c15d1.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1192,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1192",
+    "name": "HU Nummer 180",
+    "shorttext": "HU Nummer 180",
+    "text": "HU Nummer 180",
+    "comment": "HU Nummer 180",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_180_09003a3f32.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1193,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1193",
+    "name": "HU Nummer 181",
+    "shorttext": "HU Nummer 181",
+    "text": "HU Nummer 181",
+    "comment": "HU Nummer 181",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_181_3436365466.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1194,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1194",
+    "name": "HU Nummer 182",
+    "shorttext": "HU Nummer 182",
+    "text": "HU Nummer 182",
+    "comment": "HU Nummer 182",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_182_cb73b8ab48.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1195,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1195",
+    "name": "HU Nummer 183",
+    "shorttext": "HU Nummer 183",
+    "text": "HU Nummer 183",
+    "comment": "HU Nummer 183",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_183_b13bc2911d.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1196,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1196",
+    "name": "HU Nummer 184",
+    "shorttext": "HU Nummer 184",
+    "text": "HU Nummer 184",
+    "comment": "HU Nummer 184",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_184_e25a8406e6.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1197,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1197",
+    "name": "HU Nummer 185",
+    "shorttext": "HU Nummer 185",
+    "text": "HU Nummer 185",
+    "comment": "HU Nummer 185",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_185_f7c4aca4ca.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1198,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1198",
+    "name": "HU Nummer 186",
+    "shorttext": "HU Nummer 186",
+    "text": "HU Nummer 186",
+    "comment": "HU Nummer 186",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_186_6dc6ca5b2e.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1200,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1200",
+    "name": "HU Nummer 188",
+    "shorttext": "HU Nummer 188",
+    "text": "HU Nummer 188",
+    "comment": "HU Nummer 188",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_188_7c521c1189.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1201,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1201",
+    "name": "HU Nummer 189",
+    "shorttext": "HU Nummer 189",
+    "text": "HU Nummer 189",
+    "comment": "HU Nummer 189",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_189_3ddde14969.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1202,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1202",
+    "name": "HU Nummer 190",
+    "shorttext": "HU Nummer 190",
+    "text": "HU Nummer 190",
+    "comment": "HU Nummer 190",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_190_87f06ede10.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1203,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1203",
+    "name": "HU Nummer 191",
+    "shorttext": "HU Nummer 191",
+    "text": "HU Nummer 191",
+    "comment": "HU Nummer 191",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_191_f7e9c2e54a.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1204,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1204",
+    "name": "HU Nummer 192",
+    "shorttext": "HU Nummer 192",
+    "text": "HU Nummer 192",
+    "comment": "HU Nummer 192",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_192_8a54dddc2e.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1205,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1205",
+    "name": "HU Nummer 193",
+    "shorttext": "HU Nummer 193",
+    "text": "HU Nummer 193",
+    "comment": "HU Nummer 193",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_193_fdb99b35a8.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1206,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1206",
+    "name": "HU Nummer 194",
+    "shorttext": "HU Nummer 194",
+    "text": "HU Nummer 194",
+    "comment": "HU Nummer 194",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_194_88d67942dc.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1207,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1207",
+    "name": "HU Nummer 195",
+    "shorttext": "HU Nummer 195",
+    "text": "HU Nummer 195",
+    "comment": "HU Nummer 195",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/apiundefined"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1208,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1208",
+    "name": "HU Nummer 196",
+    "shorttext": "HU Nummer 196",
+    "text": "HU Nummer 196",
+    "comment": "HU Nummer 196",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/apiundefined"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1209,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1209",
+    "name": "HU Nummer 197",
+    "shorttext": "HU Nummer 197",
+    "text": "HU Nummer 197",
+    "comment": "HU Nummer 197",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_197_708a08005a.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1210,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1210",
+    "name": "HU Nummer 198",
+    "shorttext": "HU Nummer 198",
+    "text": "HU Nummer 198",
+    "comment": "HU Nummer 198",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_198_c869f80d5d.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1211,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1211",
+    "name": "HU Nummer 199",
+    "shorttext": "HU Nummer 199",
+    "text": "HU Nummer 199",
+    "comment": "HU Nummer 199",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_199_25d66f0c90.JPEG"
+      }
+    ],
+    "categories": []
+  },
+  {
+    "dammId": 1212,
+    "oldId": null,
+    "dammLink": "https://mathematical-models.org/en/models/1212",
+    "name": "HU Nummer 200",
+    "shorttext": "HU Nummer 200",
+    "text": "HU Nummer 200",
+    "comment": "HU Nummer 200",
+    "images": [
+      {
+        "copyright": null,
+        "url": "https://mathematical-models.org/api/uploads/large_HU_200_5c4c95149f.JPEG"
+      }
+    ],
+    "categories": []
   }
 ]

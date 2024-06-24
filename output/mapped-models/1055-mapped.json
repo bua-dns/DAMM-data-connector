@@ -1,0 +1,28 @@
+{
+  "dammId": 1055,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1055",
+  "name": "HU Nummer 32",
+  "shorttext": "HU Nummer 32",
+  "text": "HU Nummer 32",
+  "catalogueNumber": "XXIII 3",
+  "comment": "HU Nummer 32",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_32_cd52f9718d.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 70,
+      "name": "Schilling",
+      "classification": 6
+    },
+    {
+      "id": 105,
+      "name": "Brill",
+      "classification": 5
+    }
+  ]
+}

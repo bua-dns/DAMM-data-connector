@@ -1,0 +1,21 @@
+{
+  "dammId": 1069,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1069",
+  "name": "HU48",
+  "shorttext": "HU48",
+  "text": "HU48",
+  "objectNumber": "HU48",
+  "comment": "HU Nummer 48",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_48_95847c7f9c.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_48_2_3ae5c3e17a.JPG"
+    }
+  ],
+  "categories": []
+}

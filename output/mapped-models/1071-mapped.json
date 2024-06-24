@@ -1,0 +1,29 @@
+{
+  "dammId": 1071,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1071",
+  "name": "HU50",
+  "shorttext": "HU50",
+  "text": "HU50",
+  "objectNumber": "HU50",
+  "comment": "HU Nummer 50",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_50_23540ac19f.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_50_2_ea9b34ef8a.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_50_3_9f8af2c29c.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_50_4_ae5ff7b0be.JPG"
+    }
+  ],
+  "categories": []
+}

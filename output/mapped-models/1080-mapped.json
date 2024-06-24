@@ -1,0 +1,38 @@
+{
+  "dammId": 1080,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1080",
+  "name": "HU51 und HU52",
+  "shorttext": "HU51 und HU52",
+  "text": "HU51 und HU52",
+  "comment": "HU Nummer 51/52",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_5152_78db876cc2.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_5152_2_73450d4757.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_5152_3_e012839f64.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_5152_4_d653d4e53d.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_5152_5_3be572fc36.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

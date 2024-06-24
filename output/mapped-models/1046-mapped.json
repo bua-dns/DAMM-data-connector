@@ -1,0 +1,38 @@
+{
+  "dammId": 1046,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1046",
+  "name": "HU Nummer 22",
+  "shorttext": "HU Nummer 22",
+  "text": "HU Nummer 22",
+  "objectNumber": "HU22",
+  "catalogueNumber": "215/113",
+  "comment": "HU Nummer 22",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_22_894fb925c6.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_22_2_9f73c6e547.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 71,
+      "name": "Stoll",
+      "classification": 6
+    },
+    {
+      "id": 29,
+      "name": "Geometry",
+      "classification": 9
+    },
+    {
+      "id": 41,
+      "name": "Quadrics",
+      "classification": 2
+    }
+  ]
+}

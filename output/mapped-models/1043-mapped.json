@@ -1,0 +1,27 @@
+{
+  "dammId": 1043,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1043",
+  "name": "HU Nummer 19",
+  "shorttext": "HU Nummer 19",
+  "text": "HU Nummer 19",
+  "objectNumber": "HU19",
+  "comment": "HU Nummer 19",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_19_09c8b82b9c.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_19_2_b1db16234c.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "dammId": 1042,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1042",
+  "name": "HU Nummer 18",
+  "shorttext": "HU Nummer 18",
+  "text": "HU Nummer 18",
+  "objectNumber": "HU18",
+  "comment": "HU Nummer 18",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_18_be2474f0c2.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_18_2_c8a7589de3.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

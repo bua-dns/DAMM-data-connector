@@ -1,0 +1,31 @@
+{
+  "dammId": 1037,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1037",
+  "name": "HU Nummer 13",
+  "shorttext": "HU Nummer 13",
+  "text": "HU Nummer 13",
+  "objectNumber": "HU13",
+  "comment": "HU Nummer 13",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_13_56c550bb52.jpeg"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_13_2_58612fb014.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_13_3_863519b7bd.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}

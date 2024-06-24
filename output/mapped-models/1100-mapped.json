@@ -1,0 +1,20 @@
+{
+  "dammId": 1100,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1100",
+  "name": "HU70",
+  "shorttext": "HU70",
+  "text": "HU70",
+  "comment": "HU Nummer 70",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_70_1_1465328ee6.JPG"
+    },
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_70_2_492d610842.JPG"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,23 @@
+{
+  "dammId": 1067,
+  "oldId": null,
+  "dammLink": "https://mathematical-models.org/en/models/1067",
+  "name": "HU46",
+  "shorttext": "HU46",
+  "text": "HU46",
+  "objectNumber": "HU46",
+  "comment": "HU Nummer 46",
+  "images": [
+    {
+      "copyright": null,
+      "url": "https://mathematical-models.org/api/uploads/large_HU_46_cd1b250b7b.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Plaster",
+      "classification": 1
+    }
+  ]
+}
